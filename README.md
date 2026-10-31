@@ -18,7 +18,7 @@
 
 <div align="center">
 
-| Proje | Ne | Link |
+| Proje | Web | Link |
 |:---:|:---:|:---:|
 | 🛒 **Dirasas** | Web projem | [dirasas.com](https://dirasas.com) |
 | 💗 **Kore Kalbi** | Kore kültürü sitem | [korekalbi.vercel.app](https://korekalbi.vercel.app/) |
