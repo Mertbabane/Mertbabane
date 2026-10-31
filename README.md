@@ -14,7 +14,7 @@
   <img src="https://raw.githubusercontent.com/Mertbabane/Mertbabane/main/stats.svg" width="100%" alt="Profile Signal"/>
 </p>
 
-## ● Projelerim
+## ● Projelerim • 
 
 <div align="center">
 
@@ -22,11 +22,11 @@
 |:---:|:---:|:---:|
 | 🔴 **Dirasas** | Web projem | [dirasas.com](https://dirasas.com) |
 | 🔴 **Kore Kalbi** | Kore kültürü sitem | [korekalbi.vercel.app](https://korekalbi.vercel.app/) |
-| 🔴 **SARIKOLA** | Boxmining sunucusu | [GitHub](https://github.com/Mertbabane/SARIKOLA) |
+| 🔴 **Seria - Network** | Boxmining sunucu sitesi | [](https://serianw.com/) |
 
 </div>
 
-## ● Araçlarım
+## ● Araçlarım • 
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,tailwind,git,github,vercel,figma&perline=6" alt="araçlar"/>
