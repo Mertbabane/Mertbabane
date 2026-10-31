@@ -1,17 +1,17 @@
 <p align="center">
-  <img src="https://claude.ai/public/artifacts/35d45260-5686-416c-8ad9-8197f9d89317" width="100%" alt="Mert Babane - Web Building"/>
+  <img src="https://raw.githubusercontent.com/Mertbabane/Mertbabane/main/assets/hero.svg" width="100%" alt="Mert Babane - Web Building"/>
 </p>
 
 <p align="center">
-  <img src="assets/name.svg" width="100%" alt="MERT BABANE"/>
+  <img src="https://raw.githubusercontent.com/Mertbabane/Mertbabane/main/assets/name.svg" width="100%" alt="MERT BABANE"/>
 </p>
 
 <p align="center">
-  <img src="assets/map.svg" width="100%" alt="Dünya haritası"/>
+  <img src="https://raw.githubusercontent.com/Mertbabane/Mertbabane/main/assets/map.svg" width="100%" alt="Dünya haritası"/>
 </p>
 
 <p align="center">
-  <img src="assets/stats.svg" width="100%" alt="Profile Signal"/>
+  <img src="https://raw.githubusercontent.com/Mertbabane/Mertbabane/main/assets/stats.svg" width="100%" alt="Profile Signal"/>
 </p>
 
 ## ● Projelerim
@@ -33,11 +33,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mertbabane&bg_color=0a0102&color=ff2442&line=ff2442&point=ffd6dc&area=true&area_color=ff2442&hide_border=true" width="100%" alt="aktivite"/>
-</p>
-
-<p align="center">
-  <a href="https://github.com/Mertbabane"><img src="assets/social.svg" width="100%" alt="@mertbabane"/></a>
+  <a href="https://github.com/Mertbabane"><img src="https://raw.githubusercontent.com/Mertbabane/Mertbabane/main/assets/social.svg" width="100%" alt="@mertbabane"/></a>
 </p>
 
 <p align="center">
