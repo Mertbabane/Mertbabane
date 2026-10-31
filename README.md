@@ -20,9 +20,9 @@
 
 | Proje | Web | Link |
 |:---:|:---:|:---:|
-| 🛒 **Dirasas** | Web projem | [dirasas.com](https://dirasas.com) |
-| 💗 **Kore Kalbi** | Kore kültürü sitem | [korekalbi.vercel.app](https://korekalbi.vercel.app/) |
-| 🐺 **Seria - Network** | Boxmining sunucu sitesi | [serianw.com](https://serianw.com/) |
+| 🛒 **Dirasas** | Web projem | [Dirasas •Web•](https://dirasas.com) |
+| 💗 **Kore Kalbi** | Kore kültürü sitem | [KoreKalbi •Web•](https://korekalbi.vercel.app/) |
+| 🐺 **Seria - Network** | Boxmining sunucu sitesi | [SeriaNW •Web•](https://serianw.com/) |
 
 </div>
 
