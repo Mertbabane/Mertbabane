@@ -1,17 +1,17 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Mertbabane/Mertbabane/main/assets/hero.svg" width="100%" alt="Mert Babane - Web Building"/>
+  <img src="https://raw.githubusercontent.com/Mertbabane/Mertbabane/main/hero.svg" width="100%" alt="Mert Babane - Web Building"/>
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Mertbabane/Mertbabane/main/assets/name.svg" width="100%" alt="MERT BABANE"/>
+  <img src="https://raw.githubusercontent.com/Mertbabane/Mertbabane/main/name.svg" width="100%" alt="MERT BABANE"/>
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Mertbabane/Mertbabane/main/assets/map.svg" width="100%" alt="Dünya haritası"/>
+  <img src="https://raw.githubusercontent.com/Mertbabane/Mertbabane/main/map.svg" width="100%" alt="Dünya haritası"/>
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Mertbabane/Mertbabane/main/assets/stats.svg" width="100%" alt="Profile Signal"/>
+  <img src="https://raw.githubusercontent.com/Mertbabane/Mertbabane/main/stats.svg" width="100%" alt="Profile Signal"/>
 </p>
 
 ## ● Projelerim
@@ -33,7 +33,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/Mertbabane"><img src="https://raw.githubusercontent.com/Mertbabane/Mertbabane/main/assets/social.svg" width="100%" alt="@mertbabane"/></a>
+  <a href="https://github.com/Mertbabane"><img src="https://raw.githubusercontent.com/Mertbabane/Mertbabane/main/social.svg" width="100%" alt="@mertbabane"/></a>
 </p>
 
 <p align="center">
