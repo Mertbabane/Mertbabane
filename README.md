@@ -1,94 +1,102 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=ADIN%20SOYADIN&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=•%20•%20•%20Developer%20•%20Creator%20•%20Dreamer%20•%20•%20•&descAlignY=60&descSize=16" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:ff0080,50:7928ca,100:00d4ff&height=260&section=header&text=ADIN%20SOYADIN&fontSize=62&fontColor=ffffff&animation=twinkling&fontAlignY=40&stroke=ffffff&strokeWidth=1&desc=●%20●%20●%20●%20●%20●%20●%20●%20●%20●%20●&descAlignY=65&descSize=22" width="100%"/>
 
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&width=600&lines=•+•+•+Merhaba,+ben+ADIN!+•+•+•;Kod+yazmayı+seviyorum+💻;Yeni+şeyler+öğrenmek+tutkum+🚀;Kahve+→+Kod+→+Tekrar+☕" alt="Typing SVG" />
-</a>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&duration=2500&pause=300&color=00D4FF&center=true&vCenter=true&repeat=true&width=900&height=60&lines=●+●+●+●+●+●+●+●+●+●+●+●+●+●+●+●+●+●+●;●+●+●+●+●+ADIN+SOYADIN+●+●+●+●+●;✦+●+●+●+●+●+●+●+●+●+●+●+●+●+●+●+✦;●+●+●+●+●+●+●+●+●+●+●+●+●+●+●+●+●+●+●" alt="isim şeridi" />
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=FF0080&center=true&vCenter=true&width=700&lines=💻+Yazılım+Geliştirici;🚀+Hayalleri+koda+döküyorum;🎮+Oyun+•+Web+•+Yapay+Zeka;☕+Kahve+→+Kod+→+Tekrar" alt="rol" />
+
+<br/>
 
 
 
-![Profil Görüntülenme](https://komarev.com/ghpvc/?username=KULLANICI_ADIN&color=8b5cf6&style=for-the-badge&label=PROFİL+GÖRÜNTÜLENME)
+![Görüntülenme](https://komarev.com/ghpvc/?username=KULLANICI_ADIN&color=ff0080&style=for-the-badge&label=PROFİLİM+GÖRÜLDÜ)
+
+
+
+
+![Takipçi](https://img.shields.io/github/followers/KULLANICI_ADIN?style=for-the-badge&color=7928ca&logo=github&label=TAKİPÇİ)
+
+
+
+
+![Yıldız](https://img.shields.io/github/stars/KULLANICI_ADIN?style=for-the-badge&color=00d4ff&logo=github&label=YILDIZ)
 
 
 
 </div>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:ff0080,100:00d4ff&height=3&section=header" width="100%"/>
 
-## 👤 Hakkımda
+## ⚡ Ben Kimim?
 
-```text
-•  İsim        :  ADIN SOYADIN
-•  Rol         :  Yazılım Geliştirici
-•  Şehir       :  İSTANBUL, TR
-•  Şu an       :  🔭 ... projesi üzerinde çalışıyorum
-•  Öğreniyorum :  🌱 ...
-•  Sor bana    :  💬 ... hakkında
-•  Eğlence     :  ⚡ ...
-```
-
----
-
-## 🛠️ Sahip Olduğum Yetenekler
+<table>
+<tr>
+<td width="60%">
 
 ```text
-Python        ●●●●●●●●○○   80%
-JavaScript    ●●●●●●●○○○   70%
-HTML / CSS    ●●●●●●●●●○   90%
-Git           ●●●●●●○○○○   60%
-SQL           ●●●●●○○○○○   50%
+╭──────────────────────────────────╮
+│ 👤 İsim     ›  ADIN SOYADIN      │
+│ 💼 Rol      ›  Yazılım Geliştirici│
+│ 📍 Şehir    ›  İstanbul, TR      │
+│ 🔭 Üzerinde ›  ... projesi       │
+│ 🌱 Öğreniyor›  ...               │
+│ 💬 Sor bana ›  ... hakkında      │
+│ ⚡ Eğlence  ›  ...               │
+╰──────────────────────────────────╯
 ```
+
+</td>
+<td width="40%" align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=4000&color=7928CA&vCenter=true&width=280&height=120&lines=Merhaba+dünya!+👋;Ben+ADIN,;kod+yazmayı+seviyorum;ve+hep+öğreniyorum+🌱" alt="selam" />
+
+</td>
+</tr>
+</table>
+
+## 🛠️ Sahip Olduğum Güç
 
 <div align="center">
 
-
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-
-
-
-
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-
-
-
-
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-
-
-
-
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-
-
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
-
-
-
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-
-
+<img src="https://skillicons.dev/icons?i=python,js,ts,html,css,react,nodejs,git,github,vscode,mysql,figma&perline=6" />
 
 </div>
 
----
+```text
+Python        ●●●●●●●●○○  80%
+JavaScript    ●●●●●●●○○○  70%
+HTML / CSS    ●●●●●●●●●○  90%
+Git           ●●●●●●○○○○  60%
+SQL           ●●●●●○○○○○  50%
+```
 
-## 📊 GitHub İstatistiklerim
+## 📊 İstatistikler
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=KULLANICI_ADIN&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KULLANICI_ADIN&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api?username=KULLANICI_ADIN&show_icons=true&theme=radical&hide_border=true&count_private=true" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KULLANICI_ADIN&layout=compact&theme=radical&hide_border=true" height="170"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=KULLANICI_ADIN&theme=tokyonight&hide_border=true" />
+<img src="https://streak-stats.demolab.com/?user=KULLANICI_ADIN&theme=radical&hide_border=true" />
 
 </div>
 
----
+## 🏆 Kupalarım
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=KULLANICI_ADIN&theme=radical&no-frame=true&row=1&column=7&margin-w=10" />
+
+</div>
+
+## 📈 Aktivite Grafiği
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=KULLANICI_ADIN&theme=react-dark&hide_border=true&area=true&color=ff0080&line=7928ca&point=00d4ff" width="100%"/>
+
+</div>
 
 ## 📫 Bana Ulaş
 
@@ -115,6 +123,10 @@ SQL           ●●●●●○○○○○   50%
 
 ](mailto:mail@ornek.com)
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=100&section=footer" width="100%"/>
+<br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3000&color=00D4FF&center=true&vCenter=true&width=600&lines=●+●+●+Bir+kahve+içelim+mi?+●+●+●" />
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff0080,50:7928ca,100:00d4ff&height=120&section=footer" width="100%"/>
 
 </div>
