@@ -1,120 +1,78 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:12c2e9,50:c471ed,100:f64f59&height=280&section=header&text=MERT%20BABANE&fontSize=72&fontColor=ffffff&animation=twinkling&fontAlignY=42&stroke=ffffff&strokeWidth=1&desc=●%20●%20●%20●%20●%20●%20●%20●%20●%20●%20●%20●&descAlignY=68&descSize=24" width="100%"/>
+<!-- Header Banner -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:21262d&height=220&section=header&text=Welcome%20to%20my%20World&fontSize=42&fontColor=58a6ff&animation=fadeIn&fontAlignY=38" width="100%" />
 
-<img src="https://github.com/Mertbabane.png?size=200" width="130" alt="Mert Babane"/>
+<br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=2500&pause=400&color=C471ED&center=true&vCenter=true&width=900&height=60&lines=●+●+●+●+●+●+MERT+BABANE+●+●+●+●+●+●;🌐+Web+Building+•+Ürün+Odaklı+Geliştirici;🚀+Fikirleri+siteye+dönüştürüyorum;📍+Var+Sayki+Her+Yerdeyim..." alt="typing" />
+###  Developer & Server Administrator
 
+` Full-Stack Web Development ` &bull; ` Infrastructure & Server Management ` &bull; ` Automation `
 
+<br/>
 
-![Görüntülenme](https://komarev.com/ghpvc/?username=Mertbabane&color=c471ed&style=for-the-badge&label=PROFİL+ZİYARETİ)
-
-
-
-
-![Takipçi](https://img.shields.io/github/followers/Mertbabane?style=for-the-badge&color=f64f59&logo=github&label=TAKİPÇİ)
-
-
-
-
-![Repo](https://img.shields.io/badge/PUBLIC_REPO-4-12c2e9?style=for-the-badge&logo=github)
-
-
+<!-- Badges / Stats Quick Links -->
+<p align="center">
+  <img src="https://img.shields.io/badge/Focus-Backend_%26_Infrastructure-blueviolet?style=for-the-badge&logo=micro-dot&logoColor=white" />
+  <img src="https://img.shields.io/badge/Platform-Linux_%26_Cloud-0052CC?style=for-the-badge&logo=cloudflare&logoColor=white" />
+  <img src="https://img.shields.io/badge/Status-Building_%26_Deploying-00C7B7?style=for-the-badge&logo=git&logoColor=white" />
+</p>
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:12c2e9,50:c471ed,100:f64f59&height=3&section=header" width="100%"/>
+---
 
-## ⚡ Ben Kimim?
+##  About Me
+
+- **Core Expertise:** Building web platforms, configuring server networks, managing DNS/Cloudflare infrastructure, and developing automated bots.
+- **Workflow:** Resourceful, mobile & desktop environment integration, hands-on deployment using modern web tech stacks.
+- **Current Goals:** Expanding backend logic, optimizing network architectures, and developing high-performance server scripts.
+
+---
+
+##  Tech Stack & Skills
+
+### **Languages & Runtimes**
+<p align="left">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+</p>
+
+### **DevOps, Hosting & Tools**
+<p align="left">
+  <img src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Termux-000000?style=for-the-badge&logo=gnu-bash&logoColor=white" />
+</p>
+
+---
+
+##  GitHub Analytics
+
+<div align="center">
+  <br/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=dark&hide_border=true&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&bg_color=0d1117" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=dark&hide_border=true&title_color=58a6ff&text_color=c9d1d9&bg_color=0d1117" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=dark&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=58A6FF&currStreakNum=58A6FF&sidenums=C9D1D9&sidelabels=C9D1D9&dates=C9D1D9" width="90%" />
+</div>
+
+---
+
+##  Activity Overview
 
 ```text
-╭──────────────────────────────────────╮
-│ 👤 İsim       ›  Mert Babane         │
-│ 💼 Rol        ›  Web Developer       │
-│ 🧠 Tarz       ›  Ürün odaklı         │
-│ 📍 Konum      ›  Her yerdeyim...     │
-│ 🌐 Sitelerim  ›  Dirasas • Kore Kalbi│
-│ 🎮 Projem     ›  SARIKOLA Boxmining  │
-╰──────────────────────────────────────╯
-```
-
-## 🔥 Projelerim
-
-<div align="center">
-
-| Proje | Açıklama | Link |
-|:---:|:---:|:---:|
-| 🌐 **Dirasas** | Web projem | [dirasas.com](https://dirasas.com) |
-| 💗 **Kore Kalbi** | Kore kültürü sitem | [korekalbi.vercel.app](https://korekalbi.vercel.app/) |
-| ⛏️ **SARIKOLA** | Boxmining sunucusu | [GitHub](https://github.com/Mertbabane/SARIKOLA) |
-
-</div>
-
-## 🛠️ Yeteneklerim
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,tailwind,git,github,vercel,figma&perline=6" />
-
-</div>
-
-```text
-HTML / CSS    ●●●●●●●●○○  80%
-JavaScript    ●●●●●●●○○○  70%
-Tasarım       ●●●●●●●○○○  70%
-Deploy        ●●●●●●○○○○  60%
-```
-
-## 📊 İstatistikler
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Mertbabane&show_icons=true&theme=radical&hide_border=true&bg_color=00000000&title_color=c471ed&icon_color=f64f59" height="170"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mertbabane&layout=compact&theme=radical&hide_border=true&bg_color=00000000&title_color=c471ed" height="170"/>
-
-<img src="https://streak-stats.demolab.com/?user=Mertbabane&theme=radical&hide_border=true&background=00000000" />
-
-</div>
-
-## 🏆 Kupalar
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Mertbabane&theme=radical&no-frame=true&row=1&column=7&margin-w=10" />
-
-</div>
-
-## 📈 Aktivite
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Mertbabane&theme=react-dark&hide_border=true&area=true&color=f64f59&line=c471ed&point=12c2e9" width="100%"/>
-
-</div>
-
-## 📫 İletişim
-
-<div align="center">
-
-[
-
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-
-](https://github.com/Mertbabane)
-[
-
-![Website](https://img.shields.io/badge/Kore_Kalbi-c471ed?style=for-the-badge&logo=vercel&logoColor=white)
-
-](https://korekalbi.vercel.app/)
-[
-
-![Dirasas](https://img.shields.io/badge/Dirasas.com-f64f59?style=for-the-badge&logo=googlechrome&logoColor=white)
-
-](https://dirasas.com)
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3000&color=12C2E9&center=true&vCenter=true&width=600&lines=●+●+●+Bir+proje+mi+var?+Konuşalım!+●+●+●" />
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:12c2e9,50:c471ed,100:f64f59&height=120&section=footer" width="100%"/>
-
-</div>
+[SYSTEM OK] Loading Profile Matrix...
+[+] Web Services Deployment:      ACTIVE
+[+] Infrastructure & DNS:         OPTIMIZED
+[+] Bot & Script Automation:     RUNNING
