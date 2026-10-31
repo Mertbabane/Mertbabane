@@ -20,9 +20,9 @@
 
 | Proje | Ne | Link |
 |:---:|:---:|:---:|
-| 🔴 **Dirasas** | Web projem | [dirasas.com](https://dirasas.com) |
-| 🔴 **Kore Kalbi** | Kore kültürü sitem | [korekalbi.vercel.app](https://korekalbi.vercel.app/) |
-| 🔴 **Seria - Network** | Boxmining sunucu sitesi | [](https://serianw.com/) |
+| 🛒 **Dirasas** | Web projem | [dirasas.com](https://dirasas.com) |
+| 💗 **Kore Kalbi** | Kore kültürü sitem | [korekalbi.vercel.app](https://korekalbi.vercel.app/) |
+| 🐺 **Seria - Network** | Boxmining sunucu sitesi | [serianw.com](https://serianw.com/) |
 
 </div>
 
@@ -37,5 +37,5 @@
 </p>
 
 <p align="center">
-  <a href="https://korekalbi.vercel.app/">Kore Kalbi</a> · <a href="https://dirasas.com">Dirasas</a> · <a href="https://github.com/Mertbabane">GitHub</a>
+  <a href="https://korekalbi.vercel.app/">Kore Kalbi</a> · <a href="https://dirasas.com">Dirasas</a> · <a href="https://serianw.com/">SeriaNW</a>
 </p>
