@@ -1,0 +1,1035 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 258.5" width="900" height="258" xmlns:c2pa="http://c2pa.org/manifest"><metadata><c2pa:manifest>AAAWgmp1bWIAAAAeanVtZGMycGEAEQAQgAAAqgA4m3EDYzJwYQAAABZcanVtYgAAAEdqdW1kYzJtYQARABCAAACqADibcQN1cm46YzJwYTplZDc2YjE2NC02MjMyLTQzNGEtODYwOC1hNjNiYTY3MmNhMzUAAAADl2p1bWIAAAApanVtZGMyYXMAEQAQgAAAqgA4m3EDYzJwYS5hc3NlcnRpb25zAAAAALxqdW1iAAAARGp1bWRjYm9yABEAEIAAAKoAOJtxE2MycGEuaW5ncmVkaWVudC52MwAAAAAYYzJzaK01FtbslcjfUNZgcLsWefQAAABwY2JvcqNpZGM6Zm9ybWF0bWltYWdlL3N2Zyt4bWxqaW5zdGFuY2VJRHgseG1wOmlpZDphNDIwMTUyMy0xMWM4LTRkMjUtYjNlNS00MTc5NTM5NzM1YWJscmVsYXRpb25zaGlwaHBhcmVudE9mAAAB4mp1bWIAAABBanVtZGNib3IAEQAQgAAAqgA4m3ETYzJwYS5hY3Rpb25zLnYyAAAAABhjMnNoueGotBuJZLiJ/QLJgv9JxAAAAZljYm9yomdhY3Rpb25zgqJmYWN0aW9ua2MycGEub3BlbmVkanBhcmFtZXRlcnOha2luZ3JlZGllbnRzgaJjdXJseC1zZWxmI2p1bWJmPWMycGEuYXNzZXJ0aW9ucy9jMnBhLmluZ3JlZGllbnQudjNkaGFzaFggSssO+Z0ZOQqoE2BiponBP0Wzie8mwJhhb5a+tbHbGsikZmFjdGlvbngdY29tLmFudGhyb3BpYy5jbGF1ZGUucHJvdmlkZWRqcGFyYW1ldGVyc6F4H2NvbS5hbnRocm9waWMub3JpZ2luLWNvbmZpZGVuY2VndW5rbm93bmtkZXNjcmlwdGlvbnhmQ2xhdWRlIHByb3ZpZGVkIHRoaXMgZmlsZSBhdCB0aGUgcmVxdWVzdCBvZiBhIHVzZXIgYW5kIG1heSBoYXZlIGNyZWF0ZWQgb3IgbW9kaWZpZWQgdGhlIGZpbGUgY29udGVudHMubXNvZnR3YXJlQWdlbnShZG5hbWVmQ2xhdWRlcmFsbEFjdGlvbnNJbmNsdWRlZPUAAADIanVtYgAAAEBqdW1kY2JvcgARABCAAACqADibcRNjMnBhLmhhc2guZGF0YQAAAAAYYzJzaNVkM0oAPldiems1YiU0uTwAAACAY2JvcqVjYWxnZnNoYTI1NmNwYWRNAAAAAAAAAAAAAAAAAGRoYXNoWCA9PpY41e1ugv14WIyVUVOwweJxSsgFAbjdcNpJfIWum2RuYW1lbmp1bWJmIG1hbmlmZXN0amV4Y2x1c2lvbnOBomVzdGFydBiYZmxlbmd0aBkeBAAAAj5qdW1iAAAAJ2p1bWRjMmNsABEAEIAAAKoAOJtxA2MycGEuY2xhaW0udjIAAAACD2Nib3KlY2FsZ2ZzaGEyNTZpc2lnbmF0dXJleE1zZWxmI2p1bWJmPS9jMnBhL3VybjpjMnBhOmVkNzZiMTY0LTYyMzItNDM0YS04NjA4LWE2M2JhNjcyY2EzNS9jMnBhLnNpZ25hdHVyZWppbnN0YW5jZUlEeCx4bXA6aWlkOjAwYTYwMmM3LWYxN2EtNGYzNC05NjQ2LTQ4ZGI0YjIwNjlmYXJjcmVhdGVkX2Fzc2VydGlvbnODomN1cmx4LXNlbGYjanVtYmY9YzJwYS5hc3NlcnRpb25zL2MycGEuaW5ncmVkaWVudC52M2RoYXNoWCBKyw75nRk5CqgTYGKmicE/RbOJ7ybAmGFvlr61sdsayKJjdXJseCpzZWxmI2p1bWJmPWMycGEuYXNzZXJ0aW9ucy9jMnBhLmFjdGlvbnMudjJkaGFzaFggB8wXgmfNnQfmbg2yW56naj0zujNBojSC8Vh8PlB9wz+iY3VybHgpc2VsZiNqdW1iZj1jMnBhLmFzc2VydGlvbnMvYzJwYS5oYXNoLmRhdGFkaGFzaFggW8chV8Jd9yeXl0P+ZhJ2WuUiUyJeeMbshfP4lrfj1750Y2xhaW1fZ2VuZXJhdG9yX2luZm+jZG5hbWVvQW50aHJvcGljIEZpbGVzZ3ZlcnNpb25lMS4wLjBrc3BlY1ZlcnNpb25lMi40LjAAABA4anVtYgAAAChqdW1kYzJjcwARABCAAACqADibcQNjMnBhLnNpZ25hdHVyZQAAABAIY2JvctKEWQISogEmGCFZAgowggIGMIIBjaADAgECAhRA5aAK7sI50L64g/oGQgU9Z1UTADAKBggqhkjOPQQDAzBJMRcwFQYDVQQKEw5BbnRocm9waWMsIFBCQzEuMCwGA1UEAxMlQW50aHJvcGljIENvbnRlbnQgQ3JlZGVudGlhbHMgUm9vdCBDQTAeFw0yNjA4MDcxODQzNTZaFw0yODA4MDYxOTQzNTZaMEQxFzAVBgNVBAoTDkFudGhyb3BpYywgUEJDMSkwJwYDVQQDEyBBbnRocm9waWMgQ2xhdWRlIENvbnRlbnQgU2lnbmluZzBZMBMGByqGSM49AgEGCCqGSM49AwEHA0IABJh6CmvLUBgFFNU0vUKlOVtE6djd17L5SuwX0LemFisBM3dkd/3cyjxFA3Qo5S46fX0/ihY0VZ7mfb9KF703t5OjWDBWMA4GA1UdDwEB/wQEAwIHgDAVBgNVHSUEDjAMBgorBgEEAYPoXgIBMAwGA1UdEwEB/wQCMAAwHwYDVR0jBBgwFoAUzlHiBIFOZFsj+OPEz5o+nMHXXMIwCgYIKoZIzj0EAwMDZwAwZAIwMXMdFJ4BetLLVY7ORuE9noqbbAZOZn/aArXyTwFAZfKrPzxF2vPoJNf1+UCdg1XGAjBwX1zd9WGqYkqmL5SFqw1QySjr1zJfpJM9+1rdDwSPLMOPOjKuiXjoU/pUUeG9RwmhY3BhZFkNngAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPZYQIaBtJHUcnxHJXTO//sSBblQ3qN9B+LbC/HMIXNokOaJ3cQiAKFgKIE6NiA+jYzyN82olO9Yg+XesKmJVqB6vGs=</c2pa:manifest></metadata>
+<defs><filter id="g" x="-50%" y="-50%" width="200%" height="200%"><feGaussianBlur stdDeviation="3" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter></defs>
+<style>.d{fill:#3a0b12}.l{fill:#ff2442;animation:p 2.6s ease-in-out infinite}.t{fill:#ff2442;opacity:0;animation:t 3s ease-in-out infinite}.s{fill:#ffc2cb;opacity:0;animation:s 4.5s linear infinite}.cur{animation:b 1s steps(2) infinite}@keyframes p{0%,100%{opacity:1}50%{opacity:.55}}@keyframes t{0%,100%{opacity:0}50%{opacity:.9}}@keyframes s{0%{opacity:0}8%{opacity:1}25%,100%{opacity:0}}@keyframes b{50%{opacity:0}}text{font-family:Consolas,Menlo,monospace}</style>
+<rect x="2" y="2" width="896" height="254" rx="16" fill="#0b0204" stroke="#ff2442" stroke-opacity=".5" stroke-width="2"/>
+<rect x="2" y="2" width="896" height="34" rx="16" fill="#1a070b"/><rect x="2" y="20" width="896" height="16" fill="#1a070b"/>
+<circle cx="24" cy="19" r="5.5" fill="#ff2442"/><circle cx="44" cy="19" r="5.5" fill="#ff7a45"/><circle cx="64" cy="19" r="5.5" fill="#ffc53d"/>
+<text x="450" y="23" font-size="12" fill="#b58a92" text-anchor="middle">mertbabane@github ~ $ whoami</text>
+<circle class="d" cx="7.8" cy="52.2" r="2"/>
+<circle class="d" cx="7.8" cy="66.8" r="2"/>
+<circle class="d" cx="7.8" cy="81.2" r="2"/>
+<circle class="d" cx="7.8" cy="95.8" r="2"/>
+<circle class="d" cx="7.8" cy="124.8" r="2"/>
+<circle class="d" cx="7.8" cy="139.2" r="2"/>
+<circle class="d" cx="7.8" cy="153.8" r="2"/>
+<circle class="d" cx="7.8" cy="168.2" r="2"/>
+<circle class="d" cx="7.8" cy="182.8" r="2"/>
+<circle class="d" cx="7.8" cy="197.2" r="2"/>
+<circle class="d" cx="7.8" cy="211.8" r="2"/>
+<circle class="d" cx="7.8" cy="226.2" r="2"/>
+<circle class="d" cx="22.2" cy="52.2" r="2"/>
+<circle class="d" cx="22.2" cy="66.8" r="2"/>
+<circle class="d" cx="22.2" cy="81.2" r="2"/>
+<circle class="d" cx="22.2" cy="95.8" r="2"/>
+<circle class="t" cx="22.2" cy="95.8" r="2.6" style="animation-delay:2.95s"/>
+<circle class="d" cx="22.2" cy="110.2" r="2"/>
+<circle class="d" cx="22.2" cy="153.8" r="2"/>
+<circle class="d" cx="22.2" cy="168.2" r="2"/>
+<circle class="d" cx="22.2" cy="182.8" r="2"/>
+<circle class="d" cx="22.2" cy="197.2" r="2"/>
+<circle class="t" cx="22.2" cy="197.2" r="2.6" style="animation-delay:1.59s"/>
+<circle class="d" cx="22.2" cy="211.8" r="2"/>
+<circle class="t" cx="22.2" cy="211.8" r="2.6" style="animation-delay:0.57s"/>
+<circle class="d" cx="22.2" cy="226.2" r="2"/>
+<circle class="d" cx="36.8" cy="52.2" r="2"/>
+<circle class="t" cx="36.8" cy="52.2" r="2.6" style="animation-delay:1.39s"/>
+<circle class="d" cx="36.8" cy="66.8" r="2"/>
+<circle class="d" cx="36.8" cy="81.2" r="2"/>
+<circle class="d" cx="36.8" cy="95.8" r="2"/>
+<circle class="d" cx="36.8" cy="124.8" r="2"/>
+<circle class="d" cx="36.8" cy="139.2" r="2"/>
+<circle class="d" cx="36.8" cy="153.8" r="2"/>
+<circle class="d" cx="36.8" cy="168.2" r="2"/>
+<circle class="d" cx="36.8" cy="182.8" r="2"/>
+<circle class="d" cx="36.8" cy="197.2" r="2"/>
+<circle class="d" cx="36.8" cy="211.8" r="2"/>
+<circle class="d" cx="36.8" cy="226.2" r="2"/>
+<circle class="d" cx="51.2" cy="52.2" r="2"/>
+<circle class="d" cx="51.2" cy="66.8" r="2"/>
+<circle class="d" cx="51.2" cy="81.2" r="2"/>
+<circle class="d" cx="51.2" cy="197.2" r="2"/>
+<circle class="d" cx="51.2" cy="211.8" r="2"/>
+<circle class="d" cx="51.2" cy="226.2" r="2"/>
+<circle class="d" cx="65.8" cy="52.2" r="2"/>
+<circle class="d" cx="65.8" cy="66.8" r="2"/>
+<circle class="d" cx="65.8" cy="81.2" r="2"/>
+<circle class="d" cx="65.8" cy="95.8" r="2"/>
+<circle class="d" cx="65.8" cy="110.2" r="2"/>
+<circle class="d" cx="65.8" cy="124.8" r="2"/>
+<circle class="t" cx="65.8" cy="124.8" r="2.6" style="animation-delay:0.63s"/>
+<circle class="d" cx="65.8" cy="139.2" r="2"/>
+<circle class="d" cx="65.8" cy="153.8" r="2"/>
+<circle class="d" cx="65.8" cy="168.2" r="2"/>
+<circle class="d" cx="65.8" cy="182.8" r="2"/>
+<circle class="d" cx="65.8" cy="197.2" r="2"/>
+<circle class="d" cx="65.8" cy="211.8" r="2"/>
+<circle class="d" cx="65.8" cy="226.2" r="2"/>
+<circle class="d" cx="80.2" cy="52.2" r="2"/>
+<circle class="d" cx="80.2" cy="66.8" r="2"/>
+<circle class="d" cx="80.2" cy="81.2" r="2"/>
+<circle class="d" cx="80.2" cy="197.2" r="2"/>
+<circle class="d" cx="80.2" cy="211.8" r="2"/>
+<circle class="d" cx="80.2" cy="226.2" r="2"/>
+<circle class="d" cx="94.8" cy="52.2" r="2"/>
+<circle class="d" cx="94.8" cy="66.8" r="2"/>
+<circle class="d" cx="94.8" cy="81.2" r="2"/>
+<circle class="t" cx="94.8" cy="81.2" r="2.6" style="animation-delay:2.39s"/>
+<circle class="d" cx="94.8" cy="110.2" r="2"/>
+<circle class="d" cx="94.8" cy="124.8" r="2"/>
+<circle class="d" cx="94.8" cy="153.8" r="2"/>
+<circle class="d" cx="94.8" cy="168.2" r="2"/>
+<circle class="d" cx="94.8" cy="197.2" r="2"/>
+<circle class="d" cx="94.8" cy="211.8" r="2"/>
+<circle class="d" cx="94.8" cy="226.2" r="2"/>
+<circle class="d" cx="109.2" cy="52.2" r="2"/>
+<circle class="d" cx="109.2" cy="66.8" r="2"/>
+<circle class="d" cx="109.2" cy="81.2" r="2"/>
+<circle class="d" cx="109.2" cy="110.2" r="2"/>
+<circle class="d" cx="109.2" cy="124.8" r="2"/>
+<circle class="d" cx="109.2" cy="153.8" r="2"/>
+<circle class="d" cx="109.2" cy="168.2" r="2"/>
+<circle class="d" cx="109.2" cy="197.2" r="2"/>
+<circle class="d" cx="109.2" cy="211.8" r="2"/>
+<circle class="d" cx="109.2" cy="226.2" r="2"/>
+<circle class="d" cx="123.8" cy="52.2" r="2"/>
+<circle class="d" cx="123.8" cy="66.8" r="2"/>
+<circle class="d" cx="123.8" cy="81.2" r="2"/>
+<circle class="d" cx="123.8" cy="110.2" r="2"/>
+<circle class="d" cx="123.8" cy="124.8" r="2"/>
+<circle class="d" cx="123.8" cy="153.8" r="2"/>
+<circle class="d" cx="123.8" cy="168.2" r="2"/>
+<circle class="d" cx="123.8" cy="197.2" r="2"/>
+<circle class="d" cx="123.8" cy="211.8" r="2"/>
+<circle class="d" cx="123.8" cy="226.2" r="2"/>
+<circle class="d" cx="138.2" cy="52.2" r="2"/>
+<circle class="d" cx="138.2" cy="66.8" r="2"/>
+<circle class="d" cx="138.2" cy="81.2" r="2"/>
+<circle class="d" cx="138.2" cy="110.2" r="2"/>
+<circle class="d" cx="138.2" cy="124.8" r="2"/>
+<circle class="d" cx="138.2" cy="139.2" r="2"/>
+<circle class="d" cx="138.2" cy="153.8" r="2"/>
+<circle class="d" cx="138.2" cy="168.2" r="2"/>
+<circle class="d" cx="138.2" cy="197.2" r="2"/>
+<circle class="d" cx="138.2" cy="211.8" r="2"/>
+<circle class="d" cx="138.2" cy="226.2" r="2"/>
+<circle class="d" cx="152.8" cy="52.2" r="2"/>
+<circle class="d" cx="152.8" cy="66.8" r="2"/>
+<circle class="d" cx="152.8" cy="81.2" r="2"/>
+<circle class="d" cx="152.8" cy="95.8" r="2"/>
+<circle class="d" cx="152.8" cy="110.2" r="2"/>
+<circle class="d" cx="152.8" cy="124.8" r="2"/>
+<circle class="d" cx="152.8" cy="139.2" r="2"/>
+<circle class="d" cx="152.8" cy="153.8" r="2"/>
+<circle class="d" cx="152.8" cy="168.2" r="2"/>
+<circle class="d" cx="152.8" cy="182.8" r="2"/>
+<circle class="d" cx="152.8" cy="197.2" r="2"/>
+<circle class="d" cx="152.8" cy="211.8" r="2"/>
+<circle class="d" cx="152.8" cy="226.2" r="2"/>
+<circle class="d" cx="167.2" cy="52.2" r="2"/>
+<circle class="t" cx="167.2" cy="52.2" r="2.6" style="animation-delay:2.89s"/>
+<circle class="d" cx="167.2" cy="66.8" r="2"/>
+<circle class="d" cx="167.2" cy="81.2" r="2"/>
+<circle class="d" cx="167.2" cy="197.2" r="2"/>
+<circle class="d" cx="167.2" cy="211.8" r="2"/>
+<circle class="d" cx="167.2" cy="226.2" r="2"/>
+<circle class="d" cx="181.8" cy="52.2" r="2"/>
+<circle class="d" cx="181.8" cy="66.8" r="2"/>
+<circle class="d" cx="181.8" cy="81.2" r="2"/>
+<circle class="d" cx="181.8" cy="110.2" r="2"/>
+<circle class="d" cx="181.8" cy="124.8" r="2"/>
+<circle class="d" cx="181.8" cy="153.8" r="2"/>
+<circle class="d" cx="181.8" cy="168.2" r="2"/>
+<circle class="d" cx="181.8" cy="182.8" r="2"/>
+<circle class="d" cx="181.8" cy="197.2" r="2"/>
+<circle class="d" cx="181.8" cy="211.8" r="2"/>
+<circle class="d" cx="181.8" cy="226.2" r="2"/>
+<circle class="d" cx="196.2" cy="52.2" r="2"/>
+<circle class="t" cx="196.2" cy="52.2" r="2.6" style="animation-delay:0.81s"/>
+<circle class="d" cx="196.2" cy="66.8" r="2"/>
+<circle class="d" cx="196.2" cy="81.2" r="2"/>
+<circle class="d" cx="196.2" cy="110.2" r="2"/>
+<circle class="d" cx="196.2" cy="124.8" r="2"/>
+<circle class="d" cx="196.2" cy="168.2" r="2"/>
+<circle class="d" cx="196.2" cy="182.8" r="2"/>
+<circle class="d" cx="196.2" cy="197.2" r="2"/>
+<circle class="d" cx="196.2" cy="211.8" r="2"/>
+<circle class="d" cx="196.2" cy="226.2" r="2"/>
+<circle class="d" cx="210.8" cy="52.2" r="2"/>
+<circle class="d" cx="210.8" cy="66.8" r="2"/>
+<circle class="d" cx="210.8" cy="81.2" r="2"/>
+<circle class="d" cx="210.8" cy="110.2" r="2"/>
+<circle class="d" cx="210.8" cy="124.8" r="2"/>
+<circle class="t" cx="210.8" cy="124.8" r="2.6" style="animation-delay:0.05s"/>
+<circle class="d" cx="210.8" cy="153.8" r="2"/>
+<circle class="d" cx="210.8" cy="182.8" r="2"/>
+<circle class="d" cx="210.8" cy="197.2" r="2"/>
+<circle class="d" cx="210.8" cy="211.8" r="2"/>
+<circle class="t" cx="210.8" cy="211.8" r="2.6" style="animation-delay:1.91s"/>
+<circle class="d" cx="210.8" cy="226.2" r="2"/>
+<circle class="d" cx="225.2" cy="52.2" r="2"/>
+<circle class="d" cx="225.2" cy="66.8" r="2"/>
+<circle class="d" cx="225.2" cy="81.2" r="2"/>
+<circle class="d" cx="225.2" cy="95.8" r="2"/>
+<circle class="d" cx="225.2" cy="139.2" r="2"/>
+<circle class="d" cx="225.2" cy="153.8" r="2"/>
+<circle class="d" cx="225.2" cy="168.2" r="2"/>
+<circle class="d" cx="225.2" cy="197.2" r="2"/>
+<circle class="d" cx="225.2" cy="211.8" r="2"/>
+<circle class="d" cx="225.2" cy="226.2" r="2"/>
+<circle class="d" cx="239.8" cy="52.2" r="2"/>
+<circle class="d" cx="239.8" cy="66.8" r="2"/>
+<circle class="d" cx="239.8" cy="81.2" r="2"/>
+<circle class="d" cx="239.8" cy="95.8" r="2"/>
+<circle class="d" cx="239.8" cy="110.2" r="2"/>
+<circle class="d" cx="239.8" cy="124.8" r="2"/>
+<circle class="d" cx="239.8" cy="139.2" r="2"/>
+<circle class="d" cx="239.8" cy="153.8" r="2"/>
+<circle class="d" cx="239.8" cy="168.2" r="2"/>
+<circle class="d" cx="239.8" cy="182.8" r="2"/>
+<circle class="d" cx="239.8" cy="197.2" r="2"/>
+<circle class="d" cx="239.8" cy="211.8" r="2"/>
+<circle class="d" cx="239.8" cy="226.2" r="2"/>
+<circle class="d" cx="254.2" cy="52.2" r="2"/>
+<circle class="d" cx="254.2" cy="66.8" r="2"/>
+<circle class="d" cx="254.2" cy="81.2" r="2"/>
+<circle class="d" cx="254.2" cy="110.2" r="2"/>
+<circle class="d" cx="254.2" cy="124.8" r="2"/>
+<circle class="d" cx="254.2" cy="139.2" r="2"/>
+<circle class="d" cx="254.2" cy="153.8" r="2"/>
+<circle class="d" cx="254.2" cy="168.2" r="2"/>
+<circle class="d" cx="254.2" cy="182.8" r="2"/>
+<circle class="d" cx="254.2" cy="197.2" r="2"/>
+<circle class="d" cx="254.2" cy="211.8" r="2"/>
+<circle class="d" cx="254.2" cy="226.2" r="2"/>
+<circle class="d" cx="268.8" cy="52.2" r="2"/>
+<circle class="t" cx="268.8" cy="52.2" r="2.6" style="animation-delay:1.80s"/>
+<circle class="d" cx="268.8" cy="66.8" r="2"/>
+<circle class="d" cx="268.8" cy="81.2" r="2"/>
+<circle class="d" cx="268.8" cy="110.2" r="2"/>
+<circle class="d" cx="268.8" cy="124.8" r="2"/>
+<circle class="d" cx="268.8" cy="139.2" r="2"/>
+<circle class="d" cx="268.8" cy="153.8" r="2"/>
+<circle class="d" cx="268.8" cy="168.2" r="2"/>
+<circle class="d" cx="268.8" cy="182.8" r="2"/>
+<circle class="t" cx="268.8" cy="182.8" r="2.6" style="animation-delay:0.90s"/>
+<circle class="d" cx="268.8" cy="197.2" r="2"/>
+<circle class="d" cx="268.8" cy="211.8" r="2"/>
+<circle class="d" cx="268.8" cy="226.2" r="2"/>
+<circle class="d" cx="283.2" cy="52.2" r="2"/>
+<circle class="d" cx="283.2" cy="66.8" r="2"/>
+<circle class="d" cx="283.2" cy="81.2" r="2"/>
+<circle class="d" cx="283.2" cy="197.2" r="2"/>
+<circle class="d" cx="283.2" cy="211.8" r="2"/>
+<circle class="d" cx="283.2" cy="226.2" r="2"/>
+<circle class="d" cx="297.8" cy="52.2" r="2"/>
+<circle class="d" cx="297.8" cy="66.8" r="2"/>
+<circle class="d" cx="297.8" cy="81.2" r="2"/>
+<circle class="d" cx="297.8" cy="110.2" r="2"/>
+<circle class="d" cx="297.8" cy="124.8" r="2"/>
+<circle class="d" cx="297.8" cy="139.2" r="2"/>
+<circle class="d" cx="297.8" cy="153.8" r="2"/>
+<circle class="d" cx="297.8" cy="168.2" r="2"/>
+<circle class="d" cx="297.8" cy="182.8" r="2"/>
+<circle class="d" cx="297.8" cy="197.2" r="2"/>
+<circle class="d" cx="297.8" cy="211.8" r="2"/>
+<circle class="d" cx="297.8" cy="226.2" r="2"/>
+<circle class="d" cx="312.2" cy="52.2" r="2"/>
+<circle class="d" cx="312.2" cy="66.8" r="2"/>
+<circle class="d" cx="312.2" cy="81.2" r="2"/>
+<circle class="d" cx="312.2" cy="110.2" r="2"/>
+<circle class="d" cx="312.2" cy="124.8" r="2"/>
+<circle class="d" cx="312.2" cy="139.2" r="2"/>
+<circle class="d" cx="312.2" cy="153.8" r="2"/>
+<circle class="d" cx="312.2" cy="168.2" r="2"/>
+<circle class="d" cx="312.2" cy="182.8" r="2"/>
+<circle class="d" cx="312.2" cy="197.2" r="2"/>
+<circle class="d" cx="312.2" cy="211.8" r="2"/>
+<circle class="d" cx="312.2" cy="226.2" r="2"/>
+<circle class="d" cx="326.8" cy="52.2" r="2"/>
+<circle class="d" cx="326.8" cy="66.8" r="2"/>
+<circle class="d" cx="326.8" cy="81.2" r="2"/>
+<circle class="d" cx="326.8" cy="95.8" r="2"/>
+<circle class="t" cx="326.8" cy="95.8" r="2.6" style="animation-delay:2.62s"/>
+<circle class="d" cx="326.8" cy="110.2" r="2"/>
+<circle class="t" cx="326.8" cy="110.2" r="2.6" style="animation-delay:2.13s"/>
+<circle class="d" cx="326.8" cy="124.8" r="2"/>
+<circle class="d" cx="326.8" cy="139.2" r="2"/>
+<circle class="d" cx="326.8" cy="153.8" r="2"/>
+<circle class="d" cx="326.8" cy="168.2" r="2"/>
+<circle class="t" cx="326.8" cy="168.2" r="2.6" style="animation-delay:0.41s"/>
+<circle class="d" cx="326.8" cy="182.8" r="2"/>
+<circle class="d" cx="326.8" cy="197.2" r="2"/>
+<circle class="t" cx="326.8" cy="197.2" r="2.6" style="animation-delay:2.49s"/>
+<circle class="d" cx="326.8" cy="211.8" r="2"/>
+<circle class="d" cx="326.8" cy="226.2" r="2"/>
+<circle class="d" cx="341.2" cy="52.2" r="2"/>
+<circle class="t" cx="341.2" cy="52.2" r="2.6" style="animation-delay:1.89s"/>
+<circle class="d" cx="341.2" cy="66.8" r="2"/>
+<circle class="d" cx="341.2" cy="81.2" r="2"/>
+<circle class="d" cx="341.2" cy="95.8" r="2"/>
+<circle class="d" cx="341.2" cy="110.2" r="2"/>
+<circle class="d" cx="341.2" cy="124.8" r="2"/>
+<circle class="d" cx="341.2" cy="139.2" r="2"/>
+<circle class="d" cx="341.2" cy="153.8" r="2"/>
+<circle class="d" cx="341.2" cy="168.2" r="2"/>
+<circle class="d" cx="341.2" cy="182.8" r="2"/>
+<circle class="d" cx="341.2" cy="197.2" r="2"/>
+<circle class="t" cx="341.2" cy="197.2" r="2.6" style="animation-delay:1.42s"/>
+<circle class="d" cx="341.2" cy="211.8" r="2"/>
+<circle class="d" cx="341.2" cy="226.2" r="2"/>
+<circle class="d" cx="355.8" cy="52.2" r="2"/>
+<circle class="d" cx="355.8" cy="66.8" r="2"/>
+<circle class="d" cx="355.8" cy="81.2" r="2"/>
+<circle class="d" cx="355.8" cy="95.8" r="2"/>
+<circle class="d" cx="355.8" cy="110.2" r="2"/>
+<circle class="d" cx="355.8" cy="124.8" r="2"/>
+<circle class="d" cx="355.8" cy="139.2" r="2"/>
+<circle class="d" cx="355.8" cy="153.8" r="2"/>
+<circle class="d" cx="355.8" cy="168.2" r="2"/>
+<circle class="d" cx="355.8" cy="182.8" r="2"/>
+<circle class="d" cx="355.8" cy="197.2" r="2"/>
+<circle class="d" cx="355.8" cy="211.8" r="2"/>
+<circle class="d" cx="355.8" cy="226.2" r="2"/>
+<circle class="d" cx="370.2" cy="52.2" r="2"/>
+<circle class="d" cx="370.2" cy="66.8" r="2"/>
+<circle class="d" cx="370.2" cy="81.2" r="2"/>
+<circle class="d" cx="370.2" cy="95.8" r="2"/>
+<circle class="d" cx="370.2" cy="110.2" r="2"/>
+<circle class="d" cx="370.2" cy="124.8" r="2"/>
+<circle class="d" cx="370.2" cy="139.2" r="2"/>
+<circle class="d" cx="370.2" cy="153.8" r="2"/>
+<circle class="d" cx="370.2" cy="168.2" r="2"/>
+<circle class="d" cx="370.2" cy="182.8" r="2"/>
+<circle class="d" cx="370.2" cy="197.2" r="2"/>
+<circle class="d" cx="370.2" cy="211.8" r="2"/>
+<circle class="d" cx="370.2" cy="226.2" r="2"/>
+<circle class="d" cx="384.8" cy="52.2" r="2"/>
+<circle class="d" cx="384.8" cy="66.8" r="2"/>
+<circle class="d" cx="384.8" cy="81.2" r="2"/>
+<circle class="d" cx="384.8" cy="95.8" r="2"/>
+<circle class="d" cx="384.8" cy="110.2" r="2"/>
+<circle class="d" cx="384.8" cy="124.8" r="2"/>
+<circle class="d" cx="384.8" cy="139.2" r="2"/>
+<circle class="d" cx="384.8" cy="153.8" r="2"/>
+<circle class="d" cx="384.8" cy="168.2" r="2"/>
+<circle class="d" cx="384.8" cy="182.8" r="2"/>
+<circle class="d" cx="384.8" cy="197.2" r="2"/>
+<circle class="d" cx="384.8" cy="211.8" r="2"/>
+<circle class="d" cx="384.8" cy="226.2" r="2"/>
+<circle class="d" cx="399.2" cy="52.2" r="2"/>
+<circle class="d" cx="399.2" cy="66.8" r="2"/>
+<circle class="d" cx="399.2" cy="81.2" r="2"/>
+<circle class="d" cx="399.2" cy="197.2" r="2"/>
+<circle class="d" cx="399.2" cy="211.8" r="2"/>
+<circle class="t" cx="399.2" cy="211.8" r="2.6" style="animation-delay:2.43s"/>
+<circle class="d" cx="399.2" cy="226.2" r="2"/>
+<circle class="d" cx="413.8" cy="52.2" r="2"/>
+<circle class="d" cx="413.8" cy="66.8" r="2"/>
+<circle class="d" cx="413.8" cy="81.2" r="2"/>
+<circle class="d" cx="413.8" cy="110.2" r="2"/>
+<circle class="d" cx="413.8" cy="124.8" r="2"/>
+<circle class="d" cx="413.8" cy="153.8" r="2"/>
+<circle class="d" cx="413.8" cy="168.2" r="2"/>
+<circle class="d" cx="413.8" cy="197.2" r="2"/>
+<circle class="d" cx="413.8" cy="211.8" r="2"/>
+<circle class="d" cx="413.8" cy="226.2" r="2"/>
+<circle class="d" cx="428.2" cy="52.2" r="2"/>
+<circle class="d" cx="428.2" cy="66.8" r="2"/>
+<circle class="d" cx="428.2" cy="81.2" r="2"/>
+<circle class="d" cx="428.2" cy="110.2" r="2"/>
+<circle class="d" cx="428.2" cy="124.8" r="2"/>
+<circle class="d" cx="428.2" cy="153.8" r="2"/>
+<circle class="d" cx="428.2" cy="168.2" r="2"/>
+<circle class="d" cx="428.2" cy="197.2" r="2"/>
+<circle class="d" cx="428.2" cy="211.8" r="2"/>
+<circle class="d" cx="428.2" cy="226.2" r="2"/>
+<circle class="d" cx="442.8" cy="52.2" r="2"/>
+<circle class="d" cx="442.8" cy="66.8" r="2"/>
+<circle class="d" cx="442.8" cy="81.2" r="2"/>
+<circle class="d" cx="442.8" cy="110.2" r="2"/>
+<circle class="d" cx="442.8" cy="124.8" r="2"/>
+<circle class="d" cx="442.8" cy="153.8" r="2"/>
+<circle class="d" cx="442.8" cy="168.2" r="2"/>
+<circle class="d" cx="442.8" cy="197.2" r="2"/>
+<circle class="d" cx="442.8" cy="211.8" r="2"/>
+<circle class="d" cx="442.8" cy="226.2" r="2"/>
+<circle class="d" cx="457.2" cy="52.2" r="2"/>
+<circle class="d" cx="457.2" cy="66.8" r="2"/>
+<circle class="d" cx="457.2" cy="81.2" r="2"/>
+<circle class="d" cx="457.2" cy="95.8" r="2"/>
+<circle class="d" cx="457.2" cy="139.2" r="2"/>
+<circle class="d" cx="457.2" cy="182.8" r="2"/>
+<circle class="t" cx="457.2" cy="182.8" r="2.6" style="animation-delay:2.91s"/>
+<circle class="d" cx="457.2" cy="197.2" r="2"/>
+<circle class="d" cx="457.2" cy="211.8" r="2"/>
+<circle class="d" cx="457.2" cy="226.2" r="2"/>
+<circle class="d" cx="471.8" cy="52.2" r="2"/>
+<circle class="d" cx="471.8" cy="66.8" r="2"/>
+<circle class="d" cx="471.8" cy="81.2" r="2"/>
+<circle class="d" cx="471.8" cy="95.8" r="2"/>
+<circle class="d" cx="471.8" cy="110.2" r="2"/>
+<circle class="d" cx="471.8" cy="124.8" r="2"/>
+<circle class="d" cx="471.8" cy="139.2" r="2"/>
+<circle class="d" cx="471.8" cy="153.8" r="2"/>
+<circle class="d" cx="471.8" cy="168.2" r="2"/>
+<circle class="d" cx="471.8" cy="182.8" r="2"/>
+<circle class="d" cx="471.8" cy="197.2" r="2"/>
+<circle class="d" cx="471.8" cy="211.8" r="2"/>
+<circle class="d" cx="471.8" cy="226.2" r="2"/>
+<circle class="d" cx="486.2" cy="52.2" r="2"/>
+<circle class="d" cx="486.2" cy="66.8" r="2"/>
+<circle class="d" cx="486.2" cy="81.2" r="2"/>
+<circle class="d" cx="486.2" cy="95.8" r="2"/>
+<circle class="d" cx="486.2" cy="197.2" r="2"/>
+<circle class="d" cx="486.2" cy="211.8" r="2"/>
+<circle class="d" cx="486.2" cy="226.2" r="2"/>
+<circle class="d" cx="500.8" cy="52.2" r="2"/>
+<circle class="d" cx="500.8" cy="66.8" r="2"/>
+<circle class="t" cx="500.8" cy="66.8" r="2.6" style="animation-delay:0.58s"/>
+<circle class="d" cx="500.8" cy="81.2" r="2"/>
+<circle class="d" cx="500.8" cy="110.2" r="2"/>
+<circle class="d" cx="500.8" cy="124.8" r="2"/>
+<circle class="d" cx="500.8" cy="153.8" r="2"/>
+<circle class="d" cx="500.8" cy="168.2" r="2"/>
+<circle class="d" cx="500.8" cy="182.8" r="2"/>
+<circle class="d" cx="500.8" cy="197.2" r="2"/>
+<circle class="d" cx="500.8" cy="211.8" r="2"/>
+<circle class="d" cx="500.8" cy="226.2" r="2"/>
+<circle class="d" cx="515.2" cy="52.2" r="2"/>
+<circle class="d" cx="515.2" cy="66.8" r="2"/>
+<circle class="d" cx="515.2" cy="81.2" r="2"/>
+<circle class="d" cx="515.2" cy="110.2" r="2"/>
+<circle class="d" cx="515.2" cy="124.8" r="2"/>
+<circle class="d" cx="515.2" cy="153.8" r="2"/>
+<circle class="d" cx="515.2" cy="168.2" r="2"/>
+<circle class="d" cx="515.2" cy="182.8" r="2"/>
+<circle class="d" cx="515.2" cy="197.2" r="2"/>
+<circle class="d" cx="515.2" cy="211.8" r="2"/>
+<circle class="d" cx="515.2" cy="226.2" r="2"/>
+<circle class="d" cx="529.8" cy="52.2" r="2"/>
+<circle class="d" cx="529.8" cy="66.8" r="2"/>
+<circle class="d" cx="529.8" cy="81.2" r="2"/>
+<circle class="d" cx="529.8" cy="110.2" r="2"/>
+<circle class="d" cx="529.8" cy="124.8" r="2"/>
+<circle class="d" cx="529.8" cy="153.8" r="2"/>
+<circle class="d" cx="529.8" cy="168.2" r="2"/>
+<circle class="d" cx="529.8" cy="182.8" r="2"/>
+<circle class="d" cx="529.8" cy="197.2" r="2"/>
+<circle class="d" cx="529.8" cy="211.8" r="2"/>
+<circle class="d" cx="529.8" cy="226.2" r="2"/>
+<circle class="d" cx="544.2" cy="52.2" r="2"/>
+<circle class="d" cx="544.2" cy="66.8" r="2"/>
+<circle class="d" cx="544.2" cy="81.2" r="2"/>
+<circle class="d" cx="544.2" cy="95.8" r="2"/>
+<circle class="d" cx="544.2" cy="197.2" r="2"/>
+<circle class="d" cx="544.2" cy="211.8" r="2"/>
+<circle class="d" cx="544.2" cy="226.2" r="2"/>
+<circle class="d" cx="558.8" cy="52.2" r="2"/>
+<circle class="d" cx="558.8" cy="66.8" r="2"/>
+<circle class="d" cx="558.8" cy="81.2" r="2"/>
+<circle class="d" cx="558.8" cy="95.8" r="2"/>
+<circle class="d" cx="558.8" cy="110.2" r="2"/>
+<circle class="d" cx="558.8" cy="124.8" r="2"/>
+<circle class="d" cx="558.8" cy="139.2" r="2"/>
+<circle class="d" cx="558.8" cy="153.8" r="2"/>
+<circle class="t" cx="558.8" cy="153.8" r="2.6" style="animation-delay:0.60s"/>
+<circle class="d" cx="558.8" cy="168.2" r="2"/>
+<circle class="d" cx="558.8" cy="182.8" r="2"/>
+<circle class="d" cx="558.8" cy="197.2" r="2"/>
+<circle class="d" cx="558.8" cy="211.8" r="2"/>
+<circle class="d" cx="558.8" cy="226.2" r="2"/>
+<circle class="d" cx="573.2" cy="52.2" r="2"/>
+<circle class="d" cx="573.2" cy="66.8" r="2"/>
+<circle class="d" cx="573.2" cy="81.2" r="2"/>
+<circle class="d" cx="573.2" cy="197.2" r="2"/>
+<circle class="d" cx="573.2" cy="211.8" r="2"/>
+<circle class="d" cx="573.2" cy="226.2" r="2"/>
+<circle class="d" cx="587.8" cy="52.2" r="2"/>
+<circle class="t" cx="587.8" cy="52.2" r="2.6" style="animation-delay:1.66s"/>
+<circle class="d" cx="587.8" cy="66.8" r="2"/>
+<circle class="d" cx="587.8" cy="81.2" r="2"/>
+<circle class="d" cx="587.8" cy="110.2" r="2"/>
+<circle class="d" cx="587.8" cy="124.8" r="2"/>
+<circle class="d" cx="587.8" cy="153.8" r="2"/>
+<circle class="d" cx="587.8" cy="168.2" r="2"/>
+<circle class="d" cx="587.8" cy="197.2" r="2"/>
+<circle class="d" cx="587.8" cy="211.8" r="2"/>
+<circle class="d" cx="587.8" cy="226.2" r="2"/>
+<circle class="d" cx="602.2" cy="52.2" r="2"/>
+<circle class="d" cx="602.2" cy="66.8" r="2"/>
+<circle class="d" cx="602.2" cy="81.2" r="2"/>
+<circle class="d" cx="602.2" cy="110.2" r="2"/>
+<circle class="d" cx="602.2" cy="124.8" r="2"/>
+<circle class="d" cx="602.2" cy="153.8" r="2"/>
+<circle class="d" cx="602.2" cy="168.2" r="2"/>
+<circle class="d" cx="602.2" cy="197.2" r="2"/>
+<circle class="d" cx="602.2" cy="211.8" r="2"/>
+<circle class="d" cx="602.2" cy="226.2" r="2"/>
+<circle class="t" cx="602.2" cy="226.2" r="2.6" style="animation-delay:2.10s"/>
+<circle class="d" cx="616.8" cy="52.2" r="2"/>
+<circle class="d" cx="616.8" cy="66.8" r="2"/>
+<circle class="d" cx="616.8" cy="81.2" r="2"/>
+<circle class="d" cx="616.8" cy="110.2" r="2"/>
+<circle class="d" cx="616.8" cy="124.8" r="2"/>
+<circle class="d" cx="616.8" cy="153.8" r="2"/>
+<circle class="d" cx="616.8" cy="168.2" r="2"/>
+<circle class="d" cx="616.8" cy="197.2" r="2"/>
+<circle class="d" cx="616.8" cy="211.8" r="2"/>
+<circle class="t" cx="616.8" cy="211.8" r="2.6" style="animation-delay:2.68s"/>
+<circle class="d" cx="616.8" cy="226.2" r="2"/>
+<circle class="d" cx="631.2" cy="52.2" r="2"/>
+<circle class="d" cx="631.2" cy="66.8" r="2"/>
+<circle class="d" cx="631.2" cy="81.2" r="2"/>
+<circle class="d" cx="631.2" cy="95.8" r="2"/>
+<circle class="d" cx="631.2" cy="139.2" r="2"/>
+<circle class="d" cx="631.2" cy="182.8" r="2"/>
+<circle class="d" cx="631.2" cy="197.2" r="2"/>
+<circle class="d" cx="631.2" cy="211.8" r="2"/>
+<circle class="d" cx="631.2" cy="226.2" r="2"/>
+<circle class="d" cx="645.8" cy="52.2" r="2"/>
+<circle class="d" cx="645.8" cy="66.8" r="2"/>
+<circle class="d" cx="645.8" cy="81.2" r="2"/>
+<circle class="d" cx="645.8" cy="95.8" r="2"/>
+<circle class="d" cx="645.8" cy="110.2" r="2"/>
+<circle class="d" cx="645.8" cy="124.8" r="2"/>
+<circle class="d" cx="645.8" cy="139.2" r="2"/>
+<circle class="d" cx="645.8" cy="153.8" r="2"/>
+<circle class="d" cx="645.8" cy="168.2" r="2"/>
+<circle class="d" cx="645.8" cy="182.8" r="2"/>
+<circle class="d" cx="645.8" cy="197.2" r="2"/>
+<circle class="d" cx="645.8" cy="211.8" r="2"/>
+<circle class="d" cx="645.8" cy="226.2" r="2"/>
+<circle class="d" cx="660.2" cy="52.2" r="2"/>
+<circle class="d" cx="660.2" cy="66.8" r="2"/>
+<circle class="d" cx="660.2" cy="81.2" r="2"/>
+<circle class="t" cx="660.2" cy="81.2" r="2.6" style="animation-delay:1.07s"/>
+<circle class="d" cx="660.2" cy="95.8" r="2"/>
+<circle class="d" cx="660.2" cy="197.2" r="2"/>
+<circle class="d" cx="660.2" cy="211.8" r="2"/>
+<circle class="d" cx="660.2" cy="226.2" r="2"/>
+<circle class="d" cx="674.8" cy="52.2" r="2"/>
+<circle class="d" cx="674.8" cy="66.8" r="2"/>
+<circle class="d" cx="674.8" cy="81.2" r="2"/>
+<circle class="d" cx="674.8" cy="110.2" r="2"/>
+<circle class="d" cx="674.8" cy="124.8" r="2"/>
+<circle class="d" cx="674.8" cy="153.8" r="2"/>
+<circle class="d" cx="674.8" cy="168.2" r="2"/>
+<circle class="d" cx="674.8" cy="182.8" r="2"/>
+<circle class="d" cx="674.8" cy="197.2" r="2"/>
+<circle class="d" cx="674.8" cy="211.8" r="2"/>
+<circle class="d" cx="674.8" cy="226.2" r="2"/>
+<circle class="d" cx="689.2" cy="52.2" r="2"/>
+<circle class="t" cx="689.2" cy="52.2" r="2.6" style="animation-delay:1.85s"/>
+<circle class="d" cx="689.2" cy="66.8" r="2"/>
+<circle class="d" cx="689.2" cy="81.2" r="2"/>
+<circle class="d" cx="689.2" cy="110.2" r="2"/>
+<circle class="d" cx="689.2" cy="124.8" r="2"/>
+<circle class="t" cx="689.2" cy="124.8" r="2.6" style="animation-delay:0.59s"/>
+<circle class="d" cx="689.2" cy="153.8" r="2"/>
+<circle class="d" cx="689.2" cy="168.2" r="2"/>
+<circle class="d" cx="689.2" cy="182.8" r="2"/>
+<circle class="d" cx="689.2" cy="197.2" r="2"/>
+<circle class="d" cx="689.2" cy="211.8" r="2"/>
+<circle class="d" cx="689.2" cy="226.2" r="2"/>
+<circle class="d" cx="703.8" cy="52.2" r="2"/>
+<circle class="d" cx="703.8" cy="66.8" r="2"/>
+<circle class="d" cx="703.8" cy="81.2" r="2"/>
+<circle class="d" cx="703.8" cy="110.2" r="2"/>
+<circle class="d" cx="703.8" cy="124.8" r="2"/>
+<circle class="d" cx="703.8" cy="153.8" r="2"/>
+<circle class="d" cx="703.8" cy="168.2" r="2"/>
+<circle class="d" cx="703.8" cy="182.8" r="2"/>
+<circle class="d" cx="703.8" cy="197.2" r="2"/>
+<circle class="t" cx="703.8" cy="197.2" r="2.6" style="animation-delay:2.79s"/>
+<circle class="d" cx="703.8" cy="211.8" r="2"/>
+<circle class="d" cx="703.8" cy="226.2" r="2"/>
+<circle class="d" cx="718.2" cy="52.2" r="2"/>
+<circle class="d" cx="718.2" cy="66.8" r="2"/>
+<circle class="d" cx="718.2" cy="81.2" r="2"/>
+<circle class="d" cx="718.2" cy="95.8" r="2"/>
+<circle class="t" cx="718.2" cy="95.8" r="2.6" style="animation-delay:2.84s"/>
+<circle class="d" cx="718.2" cy="197.2" r="2"/>
+<circle class="d" cx="718.2" cy="211.8" r="2"/>
+<circle class="d" cx="718.2" cy="226.2" r="2"/>
+<circle class="d" cx="732.8" cy="52.2" r="2"/>
+<circle class="d" cx="732.8" cy="66.8" r="2"/>
+<circle class="d" cx="732.8" cy="81.2" r="2"/>
+<circle class="d" cx="732.8" cy="95.8" r="2"/>
+<circle class="d" cx="732.8" cy="110.2" r="2"/>
+<circle class="d" cx="732.8" cy="124.8" r="2"/>
+<circle class="d" cx="732.8" cy="139.2" r="2"/>
+<circle class="d" cx="732.8" cy="153.8" r="2"/>
+<circle class="t" cx="732.8" cy="153.8" r="2.6" style="animation-delay:0.74s"/>
+<circle class="d" cx="732.8" cy="168.2" r="2"/>
+<circle class="t" cx="732.8" cy="168.2" r="2.6" style="animation-delay:0.47s"/>
+<circle class="d" cx="732.8" cy="182.8" r="2"/>
+<circle class="d" cx="732.8" cy="197.2" r="2"/>
+<circle class="d" cx="732.8" cy="211.8" r="2"/>
+<circle class="d" cx="732.8" cy="226.2" r="2"/>
+<circle class="d" cx="747.2" cy="52.2" r="2"/>
+<circle class="t" cx="747.2" cy="52.2" r="2.6" style="animation-delay:2.97s"/>
+<circle class="d" cx="747.2" cy="66.8" r="2"/>
+<circle class="d" cx="747.2" cy="81.2" r="2"/>
+<circle class="d" cx="747.2" cy="197.2" r="2"/>
+<circle class="d" cx="747.2" cy="211.8" r="2"/>
+<circle class="d" cx="747.2" cy="226.2" r="2"/>
+<circle class="d" cx="761.8" cy="52.2" r="2"/>
+<circle class="d" cx="761.8" cy="66.8" r="2"/>
+<circle class="d" cx="761.8" cy="81.2" r="2"/>
+<circle class="d" cx="761.8" cy="95.8" r="2"/>
+<circle class="d" cx="761.8" cy="124.8" r="2"/>
+<circle class="d" cx="761.8" cy="139.2" r="2"/>
+<circle class="d" cx="761.8" cy="153.8" r="2"/>
+<circle class="d" cx="761.8" cy="168.2" r="2"/>
+<circle class="d" cx="761.8" cy="182.8" r="2"/>
+<circle class="d" cx="761.8" cy="197.2" r="2"/>
+<circle class="d" cx="761.8" cy="211.8" r="2"/>
+<circle class="d" cx="761.8" cy="226.2" r="2"/>
+<circle class="d" cx="776.2" cy="52.2" r="2"/>
+<circle class="d" cx="776.2" cy="66.8" r="2"/>
+<circle class="t" cx="776.2" cy="66.8" r="2.6" style="animation-delay:1.58s"/>
+<circle class="d" cx="776.2" cy="81.2" r="2"/>
+<circle class="d" cx="776.2" cy="95.8" r="2"/>
+<circle class="d" cx="776.2" cy="110.2" r="2"/>
+<circle class="d" cx="776.2" cy="153.8" r="2"/>
+<circle class="d" cx="776.2" cy="168.2" r="2"/>
+<circle class="d" cx="776.2" cy="182.8" r="2"/>
+<circle class="d" cx="776.2" cy="197.2" r="2"/>
+<circle class="d" cx="776.2" cy="211.8" r="2"/>
+<circle class="d" cx="776.2" cy="226.2" r="2"/>
+<circle class="d" cx="790.8" cy="52.2" r="2"/>
+<circle class="d" cx="790.8" cy="66.8" r="2"/>
+<circle class="d" cx="790.8" cy="81.2" r="2"/>
+<circle class="d" cx="790.8" cy="95.8" r="2"/>
+<circle class="d" cx="790.8" cy="110.2" r="2"/>
+<circle class="d" cx="790.8" cy="124.8" r="2"/>
+<circle class="d" cx="790.8" cy="139.2" r="2"/>
+<circle class="d" cx="790.8" cy="168.2" r="2"/>
+<circle class="d" cx="790.8" cy="182.8" r="2"/>
+<circle class="d" cx="790.8" cy="197.2" r="2"/>
+<circle class="d" cx="790.8" cy="211.8" r="2"/>
+<circle class="d" cx="790.8" cy="226.2" r="2"/>
+<circle class="d" cx="805.2" cy="52.2" r="2"/>
+<circle class="d" cx="805.2" cy="66.8" r="2"/>
+<circle class="d" cx="805.2" cy="81.2" r="2"/>
+<circle class="d" cx="805.2" cy="197.2" r="2"/>
+<circle class="d" cx="805.2" cy="211.8" r="2"/>
+<circle class="d" cx="805.2" cy="226.2" r="2"/>
+<circle class="d" cx="819.8" cy="52.2" r="2"/>
+<circle class="d" cx="819.8" cy="66.8" r="2"/>
+<circle class="d" cx="819.8" cy="81.2" r="2"/>
+<circle class="t" cx="819.8" cy="81.2" r="2.6" style="animation-delay:0.18s"/>
+<circle class="d" cx="819.8" cy="95.8" r="2"/>
+<circle class="d" cx="819.8" cy="110.2" r="2"/>
+<circle class="d" cx="819.8" cy="124.8" r="2"/>
+<circle class="d" cx="819.8" cy="139.2" r="2"/>
+<circle class="d" cx="819.8" cy="153.8" r="2"/>
+<circle class="d" cx="819.8" cy="168.2" r="2"/>
+<circle class="d" cx="819.8" cy="182.8" r="2"/>
+<circle class="d" cx="819.8" cy="197.2" r="2"/>
+<circle class="d" cx="819.8" cy="211.8" r="2"/>
+<circle class="d" cx="819.8" cy="226.2" r="2"/>
+<circle class="d" cx="834.2" cy="52.2" r="2"/>
+<circle class="d" cx="834.2" cy="66.8" r="2"/>
+<circle class="d" cx="834.2" cy="81.2" r="2"/>
+<circle class="d" cx="834.2" cy="197.2" r="2"/>
+<circle class="d" cx="834.2" cy="211.8" r="2"/>
+<circle class="d" cx="834.2" cy="226.2" r="2"/>
+<circle class="d" cx="848.8" cy="52.2" r="2"/>
+<circle class="d" cx="848.8" cy="66.8" r="2"/>
+<circle class="d" cx="848.8" cy="81.2" r="2"/>
+<circle class="d" cx="848.8" cy="110.2" r="2"/>
+<circle class="d" cx="848.8" cy="124.8" r="2"/>
+<circle class="d" cx="848.8" cy="153.8" r="2"/>
+<circle class="d" cx="848.8" cy="168.2" r="2"/>
+<circle class="d" cx="848.8" cy="197.2" r="2"/>
+<circle class="d" cx="848.8" cy="211.8" r="2"/>
+<circle class="d" cx="848.8" cy="226.2" r="2"/>
+<circle class="d" cx="863.2" cy="52.2" r="2"/>
+<circle class="d" cx="863.2" cy="66.8" r="2"/>
+<circle class="d" cx="863.2" cy="81.2" r="2"/>
+<circle class="d" cx="863.2" cy="110.2" r="2"/>
+<circle class="d" cx="863.2" cy="124.8" r="2"/>
+<circle class="d" cx="863.2" cy="153.8" r="2"/>
+<circle class="d" cx="863.2" cy="168.2" r="2"/>
+<circle class="d" cx="863.2" cy="197.2" r="2"/>
+<circle class="d" cx="863.2" cy="211.8" r="2"/>
+<circle class="d" cx="863.2" cy="226.2" r="2"/>
+<circle class="d" cx="877.8" cy="52.2" r="2"/>
+<circle class="d" cx="877.8" cy="66.8" r="2"/>
+<circle class="d" cx="877.8" cy="81.2" r="2"/>
+<circle class="d" cx="877.8" cy="110.2" r="2"/>
+<circle class="d" cx="877.8" cy="124.8" r="2"/>
+<circle class="d" cx="877.8" cy="153.8" r="2"/>
+<circle class="d" cx="877.8" cy="168.2" r="2"/>
+<circle class="d" cx="877.8" cy="197.2" r="2"/>
+<circle class="d" cx="877.8" cy="211.8" r="2"/>
+<circle class="d" cx="877.8" cy="226.2" r="2"/>
+<circle class="d" cx="892.2" cy="52.2" r="2"/>
+<circle class="d" cx="892.2" cy="66.8" r="2"/>
+<circle class="d" cx="892.2" cy="81.2" r="2"/>
+<circle class="d" cx="892.2" cy="110.2" r="2"/>
+<circle class="d" cx="892.2" cy="124.8" r="2"/>
+<circle class="d" cx="892.2" cy="139.2" r="2"/>
+<circle class="d" cx="892.2" cy="153.8" r="2"/>
+<circle class="d" cx="892.2" cy="168.2" r="2"/>
+<circle class="d" cx="892.2" cy="197.2" r="2"/>
+<circle class="d" cx="892.2" cy="211.8" r="2"/>
+<circle class="d" cx="892.2" cy="226.2" r="2"/>
+<g filter="url(#g)">
+<circle class="l" cx="-6.8" cy="95.8" r="4.5" style="animation-delay:2.52s"/>
+<circle class="l" cx="-6.8" cy="110.2" r="4.5" style="animation-delay:2.52s"/>
+<circle class="l" cx="-6.8" cy="124.8" r="4.5" style="animation-delay:2.52s"/>
+<circle class="l" cx="-6.8" cy="139.2" r="4.5" style="animation-delay:2.52s"/>
+<circle class="l" cx="-6.8" cy="153.8" r="4.5" style="animation-delay:2.52s"/>
+<circle class="l" cx="-6.8" cy="168.2" r="4.5" style="animation-delay:2.52s"/>
+<circle class="l" cx="-6.8" cy="182.8" r="4.5" style="animation-delay:2.52s"/>
+<circle class="l" cx="7.8" cy="110.2" r="4.5" style="animation-delay:0.00s"/>
+<circle class="l" cx="22.2" cy="124.8" r="4.5" style="animation-delay:0.08s"/>
+<circle class="l" cx="22.2" cy="139.2" r="4.5" style="animation-delay:0.08s"/>
+<circle class="l" cx="36.8" cy="110.2" r="4.5" style="animation-delay:0.16s"/>
+<circle class="l" cx="51.2" cy="95.8" r="4.5" style="animation-delay:0.24s"/>
+<circle class="l" cx="51.2" cy="110.2" r="4.5" style="animation-delay:0.24s"/>
+<circle class="l" cx="51.2" cy="124.8" r="4.5" style="animation-delay:0.24s"/>
+<circle class="l" cx="51.2" cy="139.2" r="4.5" style="animation-delay:0.24s"/>
+<circle class="l" cx="51.2" cy="153.8" r="4.5" style="animation-delay:0.24s"/>
+<circle class="l" cx="51.2" cy="168.2" r="4.5" style="animation-delay:0.24s"/>
+<circle class="l" cx="51.2" cy="182.8" r="4.5" style="animation-delay:0.24s"/>
+<circle class="l" cx="80.2" cy="95.8" r="4.5" style="animation-delay:0.40s"/>
+<circle class="l" cx="80.2" cy="110.2" r="4.5" style="animation-delay:0.40s"/>
+<circle class="l" cx="80.2" cy="124.8" r="4.5" style="animation-delay:0.40s"/>
+<circle class="l" cx="80.2" cy="139.2" r="4.5" style="animation-delay:0.40s"/>
+<circle class="l" cx="80.2" cy="153.8" r="4.5" style="animation-delay:0.40s"/>
+<circle class="l" cx="80.2" cy="168.2" r="4.5" style="animation-delay:0.40s"/>
+<circle class="l" cx="80.2" cy="182.8" r="4.5" style="animation-delay:0.40s"/>
+<circle class="l" cx="94.8" cy="95.8" r="4.5" style="animation-delay:0.48s"/>
+<circle class="l" cx="94.8" cy="139.2" r="4.5" style="animation-delay:0.48s"/>
+<circle class="l" cx="94.8" cy="182.8" r="4.5" style="animation-delay:0.48s"/>
+<circle class="l" cx="109.2" cy="95.8" r="4.5" style="animation-delay:0.56s"/>
+<circle class="l" cx="109.2" cy="139.2" r="4.5" style="animation-delay:0.56s"/>
+<circle class="l" cx="109.2" cy="182.8" r="4.5" style="animation-delay:0.56s"/>
+<circle class="l" cx="123.8" cy="95.8" r="4.5" style="animation-delay:0.64s"/>
+<circle class="l" cx="123.8" cy="139.2" r="4.5" style="animation-delay:0.64s"/>
+<circle class="l" cx="123.8" cy="182.8" r="4.5" style="animation-delay:0.64s"/>
+<circle class="l" cx="138.2" cy="95.8" r="4.5" style="animation-delay:0.72s"/>
+<circle class="l" cx="138.2" cy="182.8" r="4.5" style="animation-delay:0.72s"/>
+<circle class="l" cx="167.2" cy="95.8" r="4.5" style="animation-delay:0.88s"/>
+<circle class="l" cx="167.2" cy="110.2" r="4.5" style="animation-delay:0.88s"/>
+<circle class="l" cx="167.2" cy="124.8" r="4.5" style="animation-delay:0.88s"/>
+<circle class="l" cx="167.2" cy="139.2" r="4.5" style="animation-delay:0.88s"/>
+<circle class="l" cx="167.2" cy="153.8" r="4.5" style="animation-delay:0.88s"/>
+<circle class="l" cx="167.2" cy="168.2" r="4.5" style="animation-delay:0.88s"/>
+<circle class="l" cx="167.2" cy="182.8" r="4.5" style="animation-delay:0.88s"/>
+<circle class="l" cx="181.8" cy="95.8" r="4.5" style="animation-delay:0.96s"/>
+<circle class="l" cx="181.8" cy="139.2" r="4.5" style="animation-delay:0.96s"/>
+<circle class="l" cx="196.2" cy="95.8" r="4.5" style="animation-delay:1.04s"/>
+<circle class="l" cx="196.2" cy="139.2" r="4.5" style="animation-delay:1.04s"/>
+<circle class="l" cx="196.2" cy="153.8" r="4.5" style="animation-delay:1.04s"/>
+<circle class="l" cx="210.8" cy="95.8" r="4.5" style="animation-delay:1.12s"/>
+<circle class="l" cx="210.8" cy="139.2" r="4.5" style="animation-delay:1.12s"/>
+<circle class="l" cx="210.8" cy="168.2" r="4.5" style="animation-delay:1.12s"/>
+<circle class="l" cx="225.2" cy="110.2" r="4.5" style="animation-delay:1.20s"/>
+<circle class="l" cx="225.2" cy="124.8" r="4.5" style="animation-delay:1.20s"/>
+<circle class="l" cx="225.2" cy="182.8" r="4.5" style="animation-delay:1.20s"/>
+<circle class="l" cx="254.2" cy="95.8" r="4.5" style="animation-delay:1.36s"/>
+<circle class="l" cx="268.8" cy="95.8" r="4.5" style="animation-delay:1.44s"/>
+<circle class="l" cx="283.2" cy="95.8" r="4.5" style="animation-delay:1.52s"/>
+<circle class="l" cx="283.2" cy="110.2" r="4.5" style="animation-delay:1.52s"/>
+<circle class="l" cx="283.2" cy="124.8" r="4.5" style="animation-delay:1.52s"/>
+<circle class="l" cx="283.2" cy="139.2" r="4.5" style="animation-delay:1.52s"/>
+<circle class="l" cx="283.2" cy="153.8" r="4.5" style="animation-delay:1.52s"/>
+<circle class="l" cx="283.2" cy="168.2" r="4.5" style="animation-delay:1.52s"/>
+<circle class="l" cx="283.2" cy="182.8" r="4.5" style="animation-delay:1.52s"/>
+<circle class="l" cx="297.8" cy="95.8" r="4.5" style="animation-delay:1.60s"/>
+<circle class="l" cx="312.2" cy="95.8" r="4.5" style="animation-delay:1.68s"/>
+<circle class="l" cx="399.2" cy="95.8" r="4.5" style="animation-delay:2.16s"/>
+<circle class="l" cx="399.2" cy="110.2" r="4.5" style="animation-delay:2.16s"/>
+<circle class="l" cx="399.2" cy="124.8" r="4.5" style="animation-delay:2.16s"/>
+<circle class="l" cx="399.2" cy="139.2" r="4.5" style="animation-delay:2.16s"/>
+<circle class="l" cx="399.2" cy="153.8" r="4.5" style="animation-delay:2.16s"/>
+<circle class="l" cx="399.2" cy="168.2" r="4.5" style="animation-delay:2.16s"/>
+<circle class="l" cx="399.2" cy="182.8" r="4.5" style="animation-delay:2.16s"/>
+<circle class="l" cx="413.8" cy="95.8" r="4.5" style="animation-delay:2.24s"/>
+<circle class="l" cx="413.8" cy="139.2" r="4.5" style="animation-delay:2.24s"/>
+<circle class="l" cx="413.8" cy="182.8" r="4.5" style="animation-delay:2.24s"/>
+<circle class="l" cx="428.2" cy="95.8" r="4.5" style="animation-delay:2.32s"/>
+<circle class="l" cx="428.2" cy="139.2" r="4.5" style="animation-delay:2.32s"/>
+<circle class="l" cx="428.2" cy="182.8" r="4.5" style="animation-delay:2.32s"/>
+<circle class="l" cx="442.8" cy="95.8" r="4.5" style="animation-delay:2.40s"/>
+<circle class="l" cx="442.8" cy="139.2" r="4.5" style="animation-delay:2.40s"/>
+<circle class="l" cx="442.8" cy="182.8" r="4.5" style="animation-delay:2.40s"/>
+<circle class="l" cx="457.2" cy="110.2" r="4.5" style="animation-delay:2.48s"/>
+<circle class="l" cx="457.2" cy="124.8" r="4.5" style="animation-delay:2.48s"/>
+<circle class="l" cx="457.2" cy="153.8" r="4.5" style="animation-delay:2.48s"/>
+<circle class="l" cx="457.2" cy="168.2" r="4.5" style="animation-delay:2.48s"/>
+<circle class="l" cx="486.2" cy="110.2" r="4.5" style="animation-delay:0.04s"/>
+<circle class="l" cx="486.2" cy="124.8" r="4.5" style="animation-delay:0.04s"/>
+<circle class="l" cx="486.2" cy="139.2" r="4.5" style="animation-delay:0.04s"/>
+<circle class="l" cx="486.2" cy="153.8" r="4.5" style="animation-delay:0.04s"/>
+<circle class="l" cx="486.2" cy="168.2" r="4.5" style="animation-delay:0.04s"/>
+<circle class="l" cx="486.2" cy="182.8" r="4.5" style="animation-delay:0.04s"/>
+<circle class="l" cx="500.8" cy="95.8" r="4.5" style="animation-delay:0.12s"/>
+<circle class="l" cx="500.8" cy="139.2" r="4.5" style="animation-delay:0.12s"/>
+<circle class="l" cx="515.2" cy="95.8" r="4.5" style="animation-delay:0.20s"/>
+<circle class="l" cx="515.2" cy="139.2" r="4.5" style="animation-delay:0.20s"/>
+<circle class="l" cx="529.8" cy="95.8" r="4.5" style="animation-delay:0.28s"/>
+<circle class="l" cx="529.8" cy="139.2" r="4.5" style="animation-delay:0.28s"/>
+<circle class="l" cx="544.2" cy="110.2" r="4.5" style="animation-delay:0.36s"/>
+<circle class="l" cx="544.2" cy="124.8" r="4.5" style="animation-delay:0.36s"/>
+<circle class="l" cx="544.2" cy="139.2" r="4.5" style="animation-delay:0.36s"/>
+<circle class="l" cx="544.2" cy="153.8" r="4.5" style="animation-delay:0.36s"/>
+<circle class="l" cx="544.2" cy="168.2" r="4.5" style="animation-delay:0.36s"/>
+<circle class="l" cx="544.2" cy="182.8" r="4.5" style="animation-delay:0.36s"/>
+<circle class="l" cx="573.2" cy="95.8" r="4.5" style="animation-delay:0.52s"/>
+<circle class="l" cx="573.2" cy="110.2" r="4.5" style="animation-delay:0.52s"/>
+<circle class="l" cx="573.2" cy="124.8" r="4.5" style="animation-delay:0.52s"/>
+<circle class="l" cx="573.2" cy="139.2" r="4.5" style="animation-delay:0.52s"/>
+<circle class="l" cx="573.2" cy="153.8" r="4.5" style="animation-delay:0.52s"/>
+<circle class="l" cx="573.2" cy="168.2" r="4.5" style="animation-delay:0.52s"/>
+<circle class="l" cx="573.2" cy="182.8" r="4.5" style="animation-delay:0.52s"/>
+<circle class="l" cx="587.8" cy="95.8" r="4.5" style="animation-delay:0.60s"/>
+<circle class="l" cx="587.8" cy="139.2" r="4.5" style="animation-delay:0.60s"/>
+<circle class="l" cx="587.8" cy="182.8" r="4.5" style="animation-delay:0.60s"/>
+<circle class="l" cx="602.2" cy="95.8" r="4.5" style="animation-delay:0.68s"/>
+<circle class="l" cx="602.2" cy="139.2" r="4.5" style="animation-delay:0.68s"/>
+<circle class="l" cx="602.2" cy="182.8" r="4.5" style="animation-delay:0.68s"/>
+<circle class="l" cx="616.8" cy="95.8" r="4.5" style="animation-delay:0.76s"/>
+<circle class="l" cx="616.8" cy="139.2" r="4.5" style="animation-delay:0.76s"/>
+<circle class="l" cx="616.8" cy="182.8" r="4.5" style="animation-delay:0.76s"/>
+<circle class="l" cx="631.2" cy="110.2" r="4.5" style="animation-delay:0.84s"/>
+<circle class="l" cx="631.2" cy="124.8" r="4.5" style="animation-delay:0.84s"/>
+<circle class="l" cx="631.2" cy="153.8" r="4.5" style="animation-delay:0.84s"/>
+<circle class="l" cx="631.2" cy="168.2" r="4.5" style="animation-delay:0.84s"/>
+<circle class="l" cx="660.2" cy="110.2" r="4.5" style="animation-delay:1.00s"/>
+<circle class="l" cx="660.2" cy="124.8" r="4.5" style="animation-delay:1.00s"/>
+<circle class="l" cx="660.2" cy="139.2" r="4.5" style="animation-delay:1.00s"/>
+<circle class="l" cx="660.2" cy="153.8" r="4.5" style="animation-delay:1.00s"/>
+<circle class="l" cx="660.2" cy="168.2" r="4.5" style="animation-delay:1.00s"/>
+<circle class="l" cx="660.2" cy="182.8" r="4.5" style="animation-delay:1.00s"/>
+<circle class="l" cx="674.8" cy="95.8" r="4.5" style="animation-delay:1.08s"/>
+<circle class="l" cx="674.8" cy="139.2" r="4.5" style="animation-delay:1.08s"/>
+<circle class="l" cx="689.2" cy="95.8" r="4.5" style="animation-delay:1.16s"/>
+<circle class="l" cx="689.2" cy="139.2" r="4.5" style="animation-delay:1.16s"/>
+<circle class="l" cx="703.8" cy="95.8" r="4.5" style="animation-delay:1.24s"/>
+<circle class="l" cx="703.8" cy="139.2" r="4.5" style="animation-delay:1.24s"/>
+<circle class="l" cx="718.2" cy="110.2" r="4.5" style="animation-delay:1.32s"/>
+<circle class="l" cx="718.2" cy="124.8" r="4.5" style="animation-delay:1.32s"/>
+<circle class="l" cx="718.2" cy="139.2" r="4.5" style="animation-delay:1.32s"/>
+<circle class="l" cx="718.2" cy="153.8" r="4.5" style="animation-delay:1.32s"/>
+<circle class="l" cx="718.2" cy="168.2" r="4.5" style="animation-delay:1.32s"/>
+<circle class="l" cx="718.2" cy="182.8" r="4.5" style="animation-delay:1.32s"/>
+<circle class="l" cx="747.2" cy="95.8" r="4.5" style="animation-delay:1.48s"/>
+<circle class="l" cx="747.2" cy="110.2" r="4.5" style="animation-delay:1.48s"/>
+<circle class="l" cx="747.2" cy="124.8" r="4.5" style="animation-delay:1.48s"/>
+<circle class="l" cx="747.2" cy="139.2" r="4.5" style="animation-delay:1.48s"/>
+<circle class="l" cx="747.2" cy="153.8" r="4.5" style="animation-delay:1.48s"/>
+<circle class="l" cx="747.2" cy="168.2" r="4.5" style="animation-delay:1.48s"/>
+<circle class="l" cx="747.2" cy="182.8" r="4.5" style="animation-delay:1.48s"/>
+<circle class="l" cx="761.8" cy="110.2" r="4.5" style="animation-delay:1.56s"/>
+<circle class="l" cx="776.2" cy="124.8" r="4.5" style="animation-delay:1.64s"/>
+<circle class="l" cx="776.2" cy="139.2" r="4.5" style="animation-delay:1.64s"/>
+<circle class="l" cx="790.8" cy="153.8" r="4.5" style="animation-delay:1.72s"/>
+<circle class="l" cx="805.2" cy="95.8" r="4.5" style="animation-delay:1.80s"/>
+<circle class="l" cx="805.2" cy="110.2" r="4.5" style="animation-delay:1.80s"/>
+<circle class="l" cx="805.2" cy="124.8" r="4.5" style="animation-delay:1.80s"/>
+<circle class="l" cx="805.2" cy="139.2" r="4.5" style="animation-delay:1.80s"/>
+<circle class="l" cx="805.2" cy="153.8" r="4.5" style="animation-delay:1.80s"/>
+<circle class="l" cx="805.2" cy="168.2" r="4.5" style="animation-delay:1.80s"/>
+<circle class="l" cx="805.2" cy="182.8" r="4.5" style="animation-delay:1.80s"/>
+<circle class="l" cx="834.2" cy="95.8" r="4.5" style="animation-delay:1.96s"/>
+<circle class="l" cx="834.2" cy="110.2" r="4.5" style="animation-delay:1.96s"/>
+<circle class="l" cx="834.2" cy="124.8" r="4.5" style="animation-delay:1.96s"/>
+<circle class="l" cx="834.2" cy="139.2" r="4.5" style="animation-delay:1.96s"/>
+<circle class="l" cx="834.2" cy="153.8" r="4.5" style="animation-delay:1.96s"/>
+<circle class="l" cx="834.2" cy="168.2" r="4.5" style="animation-delay:1.96s"/>
+<circle class="l" cx="834.2" cy="182.8" r="4.5" style="animation-delay:1.96s"/>
+<circle class="l" cx="848.8" cy="95.8" r="4.5" style="animation-delay:2.04s"/>
+<circle class="l" cx="848.8" cy="139.2" r="4.5" style="animation-delay:2.04s"/>
+<circle class="l" cx="848.8" cy="182.8" r="4.5" style="animation-delay:2.04s"/>
+<circle class="l" cx="863.2" cy="95.8" r="4.5" style="animation-delay:2.12s"/>
+<circle class="l" cx="863.2" cy="139.2" r="4.5" style="animation-delay:2.12s"/>
+<circle class="l" cx="863.2" cy="182.8" r="4.5" style="animation-delay:2.12s"/>
+<circle class="l" cx="877.8" cy="95.8" r="4.5" style="animation-delay:2.20s"/>
+<circle class="l" cx="877.8" cy="139.2" r="4.5" style="animation-delay:2.20s"/>
+<circle class="l" cx="877.8" cy="182.8" r="4.5" style="animation-delay:2.20s"/>
+<circle class="l" cx="892.2" cy="95.8" r="4.5" style="animation-delay:2.28s"/>
+<circle class="l" cx="892.2" cy="182.8" r="4.5" style="animation-delay:2.28s"/>
+</g>
+<circle class="s" cx="-6.8" cy="95.8" r="4.7" style="animation-delay:-0.07s"/>
+<circle class="s" cx="-6.8" cy="110.2" r="4.7" style="animation-delay:-0.07s"/>
+<circle class="s" cx="-6.8" cy="124.8" r="4.7" style="animation-delay:-0.07s"/>
+<circle class="s" cx="-6.8" cy="139.2" r="4.7" style="animation-delay:-0.07s"/>
+<circle class="s" cx="-6.8" cy="153.8" r="4.7" style="animation-delay:-0.07s"/>
+<circle class="s" cx="-6.8" cy="168.2" r="4.7" style="animation-delay:-0.07s"/>
+<circle class="s" cx="-6.8" cy="182.8" r="4.7" style="animation-delay:-0.07s"/>
+<circle class="s" cx="7.8" cy="110.2" r="4.7" style="animation-delay:0.00s"/>
+<circle class="s" cx="22.2" cy="124.8" r="4.7" style="animation-delay:0.07s"/>
+<circle class="s" cx="22.2" cy="139.2" r="4.7" style="animation-delay:0.07s"/>
+<circle class="s" cx="36.8" cy="110.2" r="4.7" style="animation-delay:0.14s"/>
+<circle class="s" cx="51.2" cy="95.8" r="4.7" style="animation-delay:0.21s"/>
+<circle class="s" cx="51.2" cy="110.2" r="4.7" style="animation-delay:0.21s"/>
+<circle class="s" cx="51.2" cy="124.8" r="4.7" style="animation-delay:0.21s"/>
+<circle class="s" cx="51.2" cy="139.2" r="4.7" style="animation-delay:0.21s"/>
+<circle class="s" cx="51.2" cy="153.8" r="4.7" style="animation-delay:0.21s"/>
+<circle class="s" cx="51.2" cy="168.2" r="4.7" style="animation-delay:0.21s"/>
+<circle class="s" cx="51.2" cy="182.8" r="4.7" style="animation-delay:0.21s"/>
+<circle class="s" cx="80.2" cy="95.8" r="4.7" style="animation-delay:0.35s"/>
+<circle class="s" cx="80.2" cy="110.2" r="4.7" style="animation-delay:0.35s"/>
+<circle class="s" cx="80.2" cy="124.8" r="4.7" style="animation-delay:0.35s"/>
+<circle class="s" cx="80.2" cy="139.2" r="4.7" style="animation-delay:0.35s"/>
+<circle class="s" cx="80.2" cy="153.8" r="4.7" style="animation-delay:0.35s"/>
+<circle class="s" cx="80.2" cy="168.2" r="4.7" style="animation-delay:0.35s"/>
+<circle class="s" cx="80.2" cy="182.8" r="4.7" style="animation-delay:0.35s"/>
+<circle class="s" cx="94.8" cy="95.8" r="4.7" style="animation-delay:0.42s"/>
+<circle class="s" cx="94.8" cy="139.2" r="4.7" style="animation-delay:0.42s"/>
+<circle class="s" cx="94.8" cy="182.8" r="4.7" style="animation-delay:0.42s"/>
+<circle class="s" cx="109.2" cy="95.8" r="4.7" style="animation-delay:0.49s"/>
+<circle class="s" cx="109.2" cy="139.2" r="4.7" style="animation-delay:0.49s"/>
+<circle class="s" cx="109.2" cy="182.8" r="4.7" style="animation-delay:0.49s"/>
+<circle class="s" cx="123.8" cy="95.8" r="4.7" style="animation-delay:0.56s"/>
+<circle class="s" cx="123.8" cy="139.2" r="4.7" style="animation-delay:0.56s"/>
+<circle class="s" cx="123.8" cy="182.8" r="4.7" style="animation-delay:0.56s"/>
+<circle class="s" cx="138.2" cy="95.8" r="4.7" style="animation-delay:0.63s"/>
+<circle class="s" cx="138.2" cy="182.8" r="4.7" style="animation-delay:0.63s"/>
+<circle class="s" cx="167.2" cy="95.8" r="4.7" style="animation-delay:0.77s"/>
+<circle class="s" cx="167.2" cy="110.2" r="4.7" style="animation-delay:0.77s"/>
+<circle class="s" cx="167.2" cy="124.8" r="4.7" style="animation-delay:0.77s"/>
+<circle class="s" cx="167.2" cy="139.2" r="4.7" style="animation-delay:0.77s"/>
+<circle class="s" cx="167.2" cy="153.8" r="4.7" style="animation-delay:0.77s"/>
+<circle class="s" cx="167.2" cy="168.2" r="4.7" style="animation-delay:0.77s"/>
+<circle class="s" cx="167.2" cy="182.8" r="4.7" style="animation-delay:0.77s"/>
+<circle class="s" cx="181.8" cy="95.8" r="4.7" style="animation-delay:0.84s"/>
+<circle class="s" cx="181.8" cy="139.2" r="4.7" style="animation-delay:0.84s"/>
+<circle class="s" cx="196.2" cy="95.8" r="4.7" style="animation-delay:0.91s"/>
+<circle class="s" cx="196.2" cy="139.2" r="4.7" style="animation-delay:0.91s"/>
+<circle class="s" cx="196.2" cy="153.8" r="4.7" style="animation-delay:0.91s"/>
+<circle class="s" cx="210.8" cy="95.8" r="4.7" style="animation-delay:0.98s"/>
+<circle class="s" cx="210.8" cy="139.2" r="4.7" style="animation-delay:0.98s"/>
+<circle class="s" cx="210.8" cy="168.2" r="4.7" style="animation-delay:0.98s"/>
+<circle class="s" cx="225.2" cy="110.2" r="4.7" style="animation-delay:1.05s"/>
+<circle class="s" cx="225.2" cy="124.8" r="4.7" style="animation-delay:1.05s"/>
+<circle class="s" cx="225.2" cy="182.8" r="4.7" style="animation-delay:1.05s"/>
+<circle class="s" cx="254.2" cy="95.8" r="4.7" style="animation-delay:1.19s"/>
+<circle class="s" cx="268.8" cy="95.8" r="4.7" style="animation-delay:1.26s"/>
+<circle class="s" cx="283.2" cy="95.8" r="4.7" style="animation-delay:1.33s"/>
+<circle class="s" cx="283.2" cy="110.2" r="4.7" style="animation-delay:1.33s"/>
+<circle class="s" cx="283.2" cy="124.8" r="4.7" style="animation-delay:1.33s"/>
+<circle class="s" cx="283.2" cy="139.2" r="4.7" style="animation-delay:1.33s"/>
+<circle class="s" cx="283.2" cy="153.8" r="4.7" style="animation-delay:1.33s"/>
+<circle class="s" cx="283.2" cy="168.2" r="4.7" style="animation-delay:1.33s"/>
+<circle class="s" cx="283.2" cy="182.8" r="4.7" style="animation-delay:1.33s"/>
+<circle class="s" cx="297.8" cy="95.8" r="4.7" style="animation-delay:1.40s"/>
+<circle class="s" cx="312.2" cy="95.8" r="4.7" style="animation-delay:1.47s"/>
+<circle class="s" cx="399.2" cy="95.8" r="4.7" style="animation-delay:1.89s"/>
+<circle class="s" cx="399.2" cy="110.2" r="4.7" style="animation-delay:1.89s"/>
+<circle class="s" cx="399.2" cy="124.8" r="4.7" style="animation-delay:1.89s"/>
+<circle class="s" cx="399.2" cy="139.2" r="4.7" style="animation-delay:1.89s"/>
+<circle class="s" cx="399.2" cy="153.8" r="4.7" style="animation-delay:1.89s"/>
+<circle class="s" cx="399.2" cy="168.2" r="4.7" style="animation-delay:1.89s"/>
+<circle class="s" cx="399.2" cy="182.8" r="4.7" style="animation-delay:1.89s"/>
+<circle class="s" cx="413.8" cy="95.8" r="4.7" style="animation-delay:1.96s"/>
+<circle class="s" cx="413.8" cy="139.2" r="4.7" style="animation-delay:1.96s"/>
+<circle class="s" cx="413.8" cy="182.8" r="4.7" style="animation-delay:1.96s"/>
+<circle class="s" cx="428.2" cy="95.8" r="4.7" style="animation-delay:2.03s"/>
+<circle class="s" cx="428.2" cy="139.2" r="4.7" style="animation-delay:2.03s"/>
+<circle class="s" cx="428.2" cy="182.8" r="4.7" style="animation-delay:2.03s"/>
+<circle class="s" cx="442.8" cy="95.8" r="4.7" style="animation-delay:2.10s"/>
+<circle class="s" cx="442.8" cy="139.2" r="4.7" style="animation-delay:2.10s"/>
+<circle class="s" cx="442.8" cy="182.8" r="4.7" style="animation-delay:2.10s"/>
+<circle class="s" cx="457.2" cy="110.2" r="4.7" style="animation-delay:2.17s"/>
+<circle class="s" cx="457.2" cy="124.8" r="4.7" style="animation-delay:2.17s"/>
+<circle class="s" cx="457.2" cy="153.8" r="4.7" style="animation-delay:2.17s"/>
+<circle class="s" cx="457.2" cy="168.2" r="4.7" style="animation-delay:2.17s"/>
+<circle class="s" cx="486.2" cy="110.2" r="4.7" style="animation-delay:2.31s"/>
+<circle class="s" cx="486.2" cy="124.8" r="4.7" style="animation-delay:2.31s"/>
+<circle class="s" cx="486.2" cy="139.2" r="4.7" style="animation-delay:2.31s"/>
+<circle class="s" cx="486.2" cy="153.8" r="4.7" style="animation-delay:2.31s"/>
+<circle class="s" cx="486.2" cy="168.2" r="4.7" style="animation-delay:2.31s"/>
+<circle class="s" cx="486.2" cy="182.8" r="4.7" style="animation-delay:2.31s"/>
+<circle class="s" cx="500.8" cy="95.8" r="4.7" style="animation-delay:2.38s"/>
+<circle class="s" cx="500.8" cy="139.2" r="4.7" style="animation-delay:2.38s"/>
+<circle class="s" cx="515.2" cy="95.8" r="4.7" style="animation-delay:2.45s"/>
+<circle class="s" cx="515.2" cy="139.2" r="4.7" style="animation-delay:2.45s"/>
+<circle class="s" cx="529.8" cy="95.8" r="4.7" style="animation-delay:2.52s"/>
+<circle class="s" cx="529.8" cy="139.2" r="4.7" style="animation-delay:2.52s"/>
+<circle class="s" cx="544.2" cy="110.2" r="4.7" style="animation-delay:2.59s"/>
+<circle class="s" cx="544.2" cy="124.8" r="4.7" style="animation-delay:2.59s"/>
+<circle class="s" cx="544.2" cy="139.2" r="4.7" style="animation-delay:2.59s"/>
+<circle class="s" cx="544.2" cy="153.8" r="4.7" style="animation-delay:2.59s"/>
+<circle class="s" cx="544.2" cy="168.2" r="4.7" style="animation-delay:2.59s"/>
+<circle class="s" cx="544.2" cy="182.8" r="4.7" style="animation-delay:2.59s"/>
+<circle class="s" cx="573.2" cy="95.8" r="4.7" style="animation-delay:2.73s"/>
+<circle class="s" cx="573.2" cy="110.2" r="4.7" style="animation-delay:2.73s"/>
+<circle class="s" cx="573.2" cy="124.8" r="4.7" style="animation-delay:2.73s"/>
+<circle class="s" cx="573.2" cy="139.2" r="4.7" style="animation-delay:2.73s"/>
+<circle class="s" cx="573.2" cy="153.8" r="4.7" style="animation-delay:2.73s"/>
+<circle class="s" cx="573.2" cy="168.2" r="4.7" style="animation-delay:2.73s"/>
+<circle class="s" cx="573.2" cy="182.8" r="4.7" style="animation-delay:2.73s"/>
+<circle class="s" cx="587.8" cy="95.8" r="4.7" style="animation-delay:2.80s"/>
+<circle class="s" cx="587.8" cy="139.2" r="4.7" style="animation-delay:2.80s"/>
+<circle class="s" cx="587.8" cy="182.8" r="4.7" style="animation-delay:2.80s"/>
+<circle class="s" cx="602.2" cy="95.8" r="4.7" style="animation-delay:2.87s"/>
+<circle class="s" cx="602.2" cy="139.2" r="4.7" style="animation-delay:2.87s"/>
+<circle class="s" cx="602.2" cy="182.8" r="4.7" style="animation-delay:2.87s"/>
+<circle class="s" cx="616.8" cy="95.8" r="4.7" style="animation-delay:2.94s"/>
+<circle class="s" cx="616.8" cy="139.2" r="4.7" style="animation-delay:2.94s"/>
+<circle class="s" cx="616.8" cy="182.8" r="4.7" style="animation-delay:2.94s"/>
+<circle class="s" cx="631.2" cy="110.2" r="4.7" style="animation-delay:3.01s"/>
+<circle class="s" cx="631.2" cy="124.8" r="4.7" style="animation-delay:3.01s"/>
+<circle class="s" cx="631.2" cy="153.8" r="4.7" style="animation-delay:3.01s"/>
+<circle class="s" cx="631.2" cy="168.2" r="4.7" style="animation-delay:3.01s"/>
+<circle class="s" cx="660.2" cy="110.2" r="4.7" style="animation-delay:3.15s"/>
+<circle class="s" cx="660.2" cy="124.8" r="4.7" style="animation-delay:3.15s"/>
+<circle class="s" cx="660.2" cy="139.2" r="4.7" style="animation-delay:3.15s"/>
+<circle class="s" cx="660.2" cy="153.8" r="4.7" style="animation-delay:3.15s"/>
+<circle class="s" cx="660.2" cy="168.2" r="4.7" style="animation-delay:3.15s"/>
+<circle class="s" cx="660.2" cy="182.8" r="4.7" style="animation-delay:3.15s"/>
+<circle class="s" cx="674.8" cy="95.8" r="4.7" style="animation-delay:3.22s"/>
+<circle class="s" cx="674.8" cy="139.2" r="4.7" style="animation-delay:3.22s"/>
+<circle class="s" cx="689.2" cy="95.8" r="4.7" style="animation-delay:3.29s"/>
+<circle class="s" cx="689.2" cy="139.2" r="4.7" style="animation-delay:3.29s"/>
+<circle class="s" cx="703.8" cy="95.8" r="4.7" style="animation-delay:3.36s"/>
+<circle class="s" cx="703.8" cy="139.2" r="4.7" style="animation-delay:3.36s"/>
+<circle class="s" cx="718.2" cy="110.2" r="4.7" style="animation-delay:3.43s"/>
+<circle class="s" cx="718.2" cy="124.8" r="4.7" style="animation-delay:3.43s"/>
+<circle class="s" cx="718.2" cy="139.2" r="4.7" style="animation-delay:3.43s"/>
+<circle class="s" cx="718.2" cy="153.8" r="4.7" style="animation-delay:3.43s"/>
+<circle class="s" cx="718.2" cy="168.2" r="4.7" style="animation-delay:3.43s"/>
+<circle class="s" cx="718.2" cy="182.8" r="4.7" style="animation-delay:3.43s"/>
+<circle class="s" cx="747.2" cy="95.8" r="4.7" style="animation-delay:3.57s"/>
+<circle class="s" cx="747.2" cy="110.2" r="4.7" style="animation-delay:3.57s"/>
+<circle class="s" cx="747.2" cy="124.8" r="4.7" style="animation-delay:3.57s"/>
+<circle class="s" cx="747.2" cy="139.2" r="4.7" style="animation-delay:3.57s"/>
+<circle class="s" cx="747.2" cy="153.8" r="4.7" style="animation-delay:3.57s"/>
+<circle class="s" cx="747.2" cy="168.2" r="4.7" style="animation-delay:3.57s"/>
+<circle class="s" cx="747.2" cy="182.8" r="4.7" style="animation-delay:3.57s"/>
+<circle class="s" cx="761.8" cy="110.2" r="4.7" style="animation-delay:3.64s"/>
+<circle class="s" cx="776.2" cy="124.8" r="4.7" style="animation-delay:3.71s"/>
+<circle class="s" cx="776.2" cy="139.2" r="4.7" style="animation-delay:3.71s"/>
+<circle class="s" cx="790.8" cy="153.8" r="4.7" style="animation-delay:3.78s"/>
+<circle class="s" cx="805.2" cy="95.8" r="4.7" style="animation-delay:3.85s"/>
+<circle class="s" cx="805.2" cy="110.2" r="4.7" style="animation-delay:3.85s"/>
+<circle class="s" cx="805.2" cy="124.8" r="4.7" style="animation-delay:3.85s"/>
+<circle class="s" cx="805.2" cy="139.2" r="4.7" style="animation-delay:3.85s"/>
+<circle class="s" cx="805.2" cy="153.8" r="4.7" style="animation-delay:3.85s"/>
+<circle class="s" cx="805.2" cy="168.2" r="4.7" style="animation-delay:3.85s"/>
+<circle class="s" cx="805.2" cy="182.8" r="4.7" style="animation-delay:3.85s"/>
+<circle class="s" cx="834.2" cy="95.8" r="4.7" style="animation-delay:3.99s"/>
+<circle class="s" cx="834.2" cy="110.2" r="4.7" style="animation-delay:3.99s"/>
+<circle class="s" cx="834.2" cy="124.8" r="4.7" style="animation-delay:3.99s"/>
+<circle class="s" cx="834.2" cy="139.2" r="4.7" style="animation-delay:3.99s"/>
+<circle class="s" cx="834.2" cy="153.8" r="4.7" style="animation-delay:3.99s"/>
+<circle class="s" cx="834.2" cy="168.2" r="4.7" style="animation-delay:3.99s"/>
+<circle class="s" cx="834.2" cy="182.8" r="4.7" style="animation-delay:3.99s"/>
+<circle class="s" cx="848.8" cy="95.8" r="4.7" style="animation-delay:4.06s"/>
+<circle class="s" cx="848.8" cy="139.2" r="4.7" style="animation-delay:4.06s"/>
+<circle class="s" cx="848.8" cy="182.8" r="4.7" style="animation-delay:4.06s"/>
+<circle class="s" cx="863.2" cy="95.8" r="4.7" style="animation-delay:4.13s"/>
+<circle class="s" cx="863.2" cy="139.2" r="4.7" style="animation-delay:4.13s"/>
+<circle class="s" cx="863.2" cy="182.8" r="4.7" style="animation-delay:4.13s"/>
+<circle class="s" cx="877.8" cy="95.8" r="4.7" style="animation-delay:4.20s"/>
+<circle class="s" cx="877.8" cy="139.2" r="4.7" style="animation-delay:4.20s"/>
+<circle class="s" cx="877.8" cy="182.8" r="4.7" style="animation-delay:4.20s"/>
+<circle class="s" cx="892.2" cy="95.8" r="4.7" style="animation-delay:4.27s"/>
+<circle class="s" cx="892.2" cy="182.8" r="4.7" style="animation-delay:4.27s"/>
+<text x="24" y="242" font-size="13" fill="#ff2442">› web developer · ürün odaklı<tspan class="cur"> ▍</tspan></text></svg>
