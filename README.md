@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/hero.svg" width="100%" alt="Mert Babane - Web Building"/>
+  <img src="https://claude.ai/public/artifacts/35d45260-5686-416c-8ad9-8197f9d89317" width="100%" alt="Mert Babane - Web Building"/>
 </p>
 
 <p align="center">
